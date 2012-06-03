@@ -14,7 +14,7 @@
 "Copy Link to Clipboard" = "Link in Zwischenablage kopieren";
 
 /* stopped (as in torrent stopped) */
-"Stopped" = "Angehalten";
+"Stopped" = "Pausiert";
 
 /* demagnetizing */
 "Demagnetizing..." = "Wird entmagnetisiert...";
