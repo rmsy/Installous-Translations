@@ -1,0 +1,29 @@
+/* stop a torrent */
+"Stop" = "Wstrzymaj";
+
+/* resume a torrent */
+"Resume" = "Wznów";
+
+/* dismiss a message */
+"Dismiss" = "Odrzuć";
+
+/* advertisement */
+"Advertisement" = "Reklama";
+
+/* copy link to clipboard */
+"Copy Link to Clipboard" = "Kopiuj link do schowka";
+
+/* stopped (as in torrent stopped) */
+"Stopped" = "Wstrzymano";
+
+/* demagnetizing */
+"Demagnetizing..." = "Demagnetyzuję...";
+
+/* changing status */
+"Changing..." = "Zmieniam...";
+
+/* invalid torrent */
+"Invalid Torrent" = "Nieprawidłowy plik torrent";
+
+/* torrent is multifile */
+"Torrent %@ is multifile." = "Torrent %@ zawiera wiele plików.";

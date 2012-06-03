@@ -1,29 +1,26 @@
 /* stop a torrent */
-"Stop" = "Wstrzymaj";
+"Stop" = "Parar";
 
 /* resume a torrent */
-"Resume" = "Wznów";
-
-/* dismiss a message */
-"Dismiss" = "Odrzuć";
+"Resume" = "Continuar";
 
 /* advertisement */
-"Advertisement" = "Reklama";
+"Advertisement" = "Anúncio";
 
 /* copy link to clipboard */
-"Copy Link to Clipboard" = "Kopiuj link do schowka";
+"Copy Link to Clipboard" = "Copiar Link para o Clipboard";
 
 /* stopped (as in torrent stopped) */
-"Stopped" = "Wstrzymano";
+"Stopped" = "Parado";
 
 /* demagnetizing */
-"Demagnetizing..." = "Demagnetyzuję...";
+"Demagnetizing..." = "Desmagnetizando...";
 
 /* changing status */
-"Changing..." = "Zmieniam...";
+"Changing..." = "Mudando...";
 
 /* invalid torrent */
-"Invalid Torrent" = "Nieprawidłowy plik torrent";
+"Invalid Torrent" = "Torrent inválido";
 
 /* torrent is multifile */
-"Torrent %@ is multifile." = "Torrent %@ zawiera wiele plików.";
+"Torrent %@ is multifile." = "O Torrent contém multificheiros";
