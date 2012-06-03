@@ -11,7 +11,7 @@
 "Advertisement" = "Anzeige";
 
 /* copy link to clipboard */
-"Copy Link to Clipboard" = "Link zum notizblock kopieren";
+"Copy Link to Clipboard" = "Link in Zwischenablage kopieren";
 
 /* stopped (as in torrent stopped) */
 "Stopped" = "Angehalten";
