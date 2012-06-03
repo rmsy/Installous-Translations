@@ -1,113 +1,29 @@
-"%d Updates available" = "%d Updates beschikbaar";
-"(Page %i of %i)" = "(Pagina %1$i van %2$i)";
-"1 Update available" = "1 Update beschikbaar";
-"About" = "Over";
-"Analyzing %@ ..." = "Analyseert %@ ...";
-"Announcement" = "Aankondiging";
-"API Error" = "API Error";
-"Application Description:" = "Applicatie Beschrijving:";
-"Application doesn't launch." = "Applicatie start niet.";
-"Application will not install." = "Installatie niet mogelijk.";
-"Apps" = "Apps";
-"Apps & Updates" = "Apps & Updates";
-"apptrackr Password " = "apptrackr";
-"apptrackr Username " = "apptrackr";
-"Caching %@" = "Caching %@";
-"Caching All Applications" = "Caching All Applications";
-"Cancel" = "Afbreken";
-"Categories" = "Categorieën";
-"Company" = "Bedrijf";
-"Completed" = "Klaar";
-"Connecting..." = "Verbinden...";
-"Contacting MobileHunt ..." = "Verbinden met MobileHunt...";
-"Cracked by %@" = "Gekraakt door %@";
-"Cracked by Unknown" = "Onbekende Kraker";
-"Current: %@ (New: %@)" = "Huidig: %1$@ (Nieuw: %2$@)";
-"Delete" = "Verwijderen";
-"Delete automatically" = "Verwijder automatisch";
-"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "Ontwikkelt door het Hackulous team\n\nVoor meer informatie, bezoek\nhttp://hackulo.us/";
-"Disabled" = "Uitgeschakeld";
-"Done" = "Klaar";
-"Download" = "Download";
-"Download completed: %@" = "Download compleet: %@";
-"Download failed: %@" = "Download mislukt: %@";
-"Download later" = "Later downloaden";
-"Download now" = "Nu downloaden";
-"Downloaded" = "Gedownload";
-"Downloaded IPA selected" = "Gedownloade IPA";
-"Downloads" = "Downloads";
-"Enabled" = "Ingeschakeld";
-"Error" = "Error";
-"Error building SBCache" = "Error building SBCache";
-"Error Pushing IPA" = "Error Pushing IPA";
-"Error while searching for Updates" = "Fout tijdens zoeken naar updates";
-"Failed to download %@" = "Het downloaden van %@ is mislukt";
-"File already exists" = "Bestand bestaat al";
-"Home" = "Home";
-"Install" = "Installeren";
-"Install all" = "Installeer alles";
-"Install automatically" = "Automatisch installeren";
-"Installation completed: %@" = "Installatie compleet: %@";
-"Installation failed: %@" = "Installatie mislukt: %@";
-"Installed" = "Geïnstalleerd";
-"Installing..." = "Installeren...";
-"iTunes Sync" = "iTunes Sync";
-"Latest Version" = "Laatste Versie";
-"Launch App Store" = "Open App Store";
-"Link successfully reported" = "Link succesvol gerapporteerd";
-"Loading" = "Laden";
-"Local Notifications" = "Push-berichten";
-"LocalSharing" = "LocalSharing";
-"LocalSharing must be enabled to send IPAs!" = "LocalSharing moet ingeschakeld zijn om IPA's te verzenden!";
-"LocalSharing requires at least iOS 4.0!" = "LocalSharing heeft minimaal iOS 4.0 nodig!";
-"MobileHunt" = "MobileHunt";
-"No DSID found" = "Geen DSID gevonden";
-"No Updates available" = "Geen updates beschikbaar";
-"OK" = "OK";
-"Only show iPad Apps" = "Laat alleen iPad Apps zien";
-"Other" = "Andere";
-"Password" = "Wachtwoord";
-"Please enter a valid apptrackr account in Settings" = "Voer a.u.b. een geldig apptrackr account in de instellingen in";
-"Popularity" = "Populariteit";
-"Price" = "Prijs";
-"Queued" = "Nog te doen";
-"Receiving" = "Ontvangen";
-"Release Date" = "Plaatsingsdatum";
-"Reload Categories" = "Categorieën opnieuw laden";
-"Remove Metadata" = "Metadata verwijderen";
-"Report" = "Rapporteren";
-"Reported" = "Gerapporteerd";
-"Requesting Categories" = "Laad Categorieën";
-"Requesting Permission" = "Vragen om toestemming";
-"Requirements:" = "Compatibliteit:";
-"Scanning Applications ..." = "Scannen van Applicaties ...";
-"Search" = "Zoeken";
-"Searching ..." = "Zoeken...";
-"Searching for Updates" = "Zoeken naar Updates";
-"Select Device" = "Selecteer je apparaat";
-"Send IPA" = "Stuur IPA";
-"Settings" = "Instellingen";
-"Size" = "Grootte";
-"Started" = "Gestart";
-"stat() failed" = "stat() failed";
-"The filehost is very slow." = "De filehost is erg traag.";
-"The link is dead." = "De link werkt niet.";
-"Unable to load sandboxes" = "Laden sandboxes onmogelijk";
-"Unable to own cache" = "Unable to own cache";
-"Unable to save cache" = "Unable to save cache";
-"Unable to submit Report" = "Onmogelijk om door te gaan";
-"Unexpected content" = "Onverwachte inhoud";
-"Updates" = "Updates";
-"Upload failed" = "Upload mislukt";
-"Uploaded" = "Geüpload";
-"Uploading Files " = "Uploaden van bestanden";
-"User key doesn't exist" = "User key doesn't exist";
-"Username" = "Gebruikersnaam";
-"Version: %@" = "Versie: %@";
-"View 15 more Apps" = "Laat 15 Apps meer zien";
-"View in Safari" = "Laat zien in Safari";
-"View this application on the App Store" = "Laat deze applicatie in de App Store zien";
-"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "We hebben '%@' niet! Maar wil jij misschien sommige bestanden uploaden (veilig op de achtergrond), zodat we het andere mensen kunnen aanbieden?";
-"What's new in Version %@:" = "Wat is nieuw in Versie %@:";
-"Why do you want to report this link?" = "Waarom wil je deze link rapporteren?";
-"Wrong Version" = "Verkeerde Versie";
+/* stop a torrent */
+"Stop" = "Pauzeer";
+
+/* resume a torrent */
+"Resume" = "Hervatten";
+
+/* dismiss a message */
+"Dismiss" = "Negeer";
+
+/* advertisement */
+"Advertisement" = "Reclame";
+
+/* copy link to clipboard */
+"Copy Link to Clipboard" = "Kopieer link naar klembord";
+
+/* stopped (as in torrent stopped) */
+"Stopped" = "Gepauzeerd";
+
+/* demagnetizing */
+"Demagnetizing..." = "Demagnetiseren...";
+
+/* changing status */
+"Changing..." = "Veranderen...";
+
+/* invalid torrent */
+"Invalid Torrent" = "Ongeldige torrent";
+
+/* torrent is multifile */
+"Torrent %@ is multifile." = "Torrent %@ bestaat uit meerdere bestanden.";
