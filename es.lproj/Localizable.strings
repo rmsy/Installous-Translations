@@ -26,4 +26,4 @@
 "Invalid Torrent" = "Torrent Invalido";
 
 /* torrent is multifile */
-"Torrent %@ is multifile." = "El Torrent %@ ies multiarchivo.";
+"Torrent %@ is multifile." = "El Torrent %@ contiene varios archivos.";
