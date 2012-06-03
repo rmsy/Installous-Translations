@@ -1,8 +1,8 @@
 /* stop a torrent */
-"Stop" = "Detener";
+"Stop" = "Detenga";
 
 /* resume a torrent */
-"Resume" = "Resumir";
+"Resume" = "Resuma";
 
 /* dismiss a message */
 /* "Dismiss" = "Desechar"; */
@@ -11,7 +11,7 @@
 "Advertisement" = "Publicidad";
 
 /* copy link to clipboard */
-"Copy Link to Clipboard" = "Copiar Link al Portapapeles";
+"Copy Link to Clipboard" = "Copie Link al Portapapeles";
 
 /* stopped (as in torrent stopped) */
 "Stopped" = "Detenido";
