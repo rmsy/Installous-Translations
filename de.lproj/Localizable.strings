@@ -20,10 +20,10 @@
 "Demagnetizing..." = "Wird entmagnetisiert...";
 
 /* changing status */
-"Changing..." = "Wird verändert..";
+"Changing..." = "Wird verändert...";
 
 /* invalid torrent */
-"Invalid Torrent" = "Torrent ist ung�ltig";
+"Invalid Torrent" = "Torrent ist ungültig";
 
 /* torrent is multifile */
 "Torrent %@ is multifile." = "Torrent hat mehrere Dateien.";
