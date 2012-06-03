@@ -2,28 +2,25 @@
 "Stop" = "إيقاف";
 
 /* resume a torrent */
-"Resume" = "متابعة";
-
-/* cancel a message */
-"Cancel" = "Abrechen";
+"Resume" = "إستمرار";
 
 /* advertisement */
-"Advertisement" = "إعلان";
+"Advertisement" = "إعلاناتن";
 
 /* copy link to clipboard */
-"Copy Link to Clipboard" = "نسخ الرابط إلى الحافظة";
+"Copy Link to Clipboard" = "نسخ الرابط الى الحافظة";
 
 /* stopped (as in torrent stopped) */
-"Stopped" = "تم الإيقاف";
+"Stopped" = "تم الايقافف";
 
 /* demagnetizing */
-"Demagnetizing..." = "جارٍ إزالة المغناطيسية ";
+"Demagnetizing..." = "جاري المعالجة ";
 
 /* changing status */
-"Changing..." = "تغيير...";
+"Changing..." = "جاري التغيير";
 
 /* invalid torrent */
-"Invalid Torrent" = "ملف تورنت غير صالح";
+"Invalid Torrent" = "خطأ في التورنت";
 
 /* torrent is multifile */
-"Torrent %@ is multifile." = "هذا التورنت يحتوي على عدة ملفات";
+"Torrent %@ is multifile." = "التورنت يحتوي على عدة ملفات";
