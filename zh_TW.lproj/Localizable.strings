@@ -1,29 +1,29 @@
 /* stop a torrent */
-"Stop" = "إيقاف";
+"Stop" = "停止下載";
 
 /* resume a torrent */
-"Resume" = "إستمرار";
+"Resume" = "接續下載";
 
 /* dismiss a message */
-"Dismiss" = "تجاهل";
+"Dismiss" = "屏除";
 
-/* advertisement */
-"Advertisement" = "إعلاناتن";
+/* advertisement */"
+Advertisement" = "廣告";
 
-/* copy link to clipboard */
-"Copy Link to Clipboard" = "نسخ الرابط الى الحافظة";
+/* copy link to clipboard */"
+Copy Link to Clipboard" = "把鏈結拷貝";
 
 /* stopped (as in torrent stopped) */
-"Stopped" = "تم الايقافف";
+"Stopped" = "下載暫停";
 
 /* demagnetizing */
-"Demagnetizing..." = "جاري المعالجة ";
+"Demagnetizing..." = "正尋找 torrent 的資料";
 
 /* changing status */
-"Changing..." = "جاري التغيير";
+"Changing..." = "狀態更換當中..";/
 
-/* invalid torrent */
-"Invalid Torrent" = "خطأ في التورنت";
+* invalid torrent */
+"Invalid Torrent" = 文件無效";
 
 /* torrent is multifile */
-"Torrent %@ is multifile." = "التورنت يحتوي على عدة ملفات";
+"Torrent %@ is multifile." = "%@ 包含倍數文件";
