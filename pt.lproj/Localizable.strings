@@ -4,6 +4,9 @@
 /* resume a torrent */
 "Resume" = "Continuar";
 
+/* dismiss a message */
+"Dismiss" = "Sair";
+
 /* advertisement */
 "Advertisement" = "Propaganda";
 
