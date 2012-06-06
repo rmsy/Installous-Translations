@@ -1,38 +1,3 @@
-/* stop a torrent */
-"Stop" = "停止下载";
-
-/* resume a torrent */
-"Resume" = "接续下载";
-
-/* dismiss a message */
-"Dismiss" = "屏除";
-
-/* advertisement */
-"Advertisement" = "广告";
-
-/* copy link to clipboard */
-"Copy Link to Clipboard" = "把链结拷贝";
-
-/* stopped (as in torrent stopped) */
-"Stopped" = "下载暂停";
-
-/* demagnetizing */
-"Demagnetizing..." = "正寻找 torrent 的资料";
-
-/* changing status */
-"Changing..." = "状态更换当中..";
-
-/* invalid torrent */
-"Invalid Torrent" = 文件无效";
-
-<<<<<<< HEAD
-=======
-/* report reason */
-"Application doesn't launch." = "应用程序无法启动。";
-
-/* Application will not install. */
-"Application will not install." = "应用程序无法安装。";
-
 /* No comment provided by engineer. */
 "Apps" = "应用程序";
 
@@ -372,6 +337,5 @@
 /* invalid torrent */
 "Invalid Torrent" = 文件无效";
 
->>>>>>> Done with localization, added old translations
 /* torrent is multifile */
 "Torrent %@ is multifile." = "%@ 包含倍数文件";
