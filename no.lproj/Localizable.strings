@@ -1,3 +1,347 @@
+/* No comment provided by engineer. */
+"%d Updates available" = "%d Oppdatering tilgjengelig";
+
+/* indicates, which current page (1) is displayed and how many other pages (2) are available */
+"(Page %i of %i)" = "(Side %1$i av %2$i)";
+
+/* No comment provided by engineer. */
+"1 Update available" = "1 Oppdatering tilgjengelig";
+
+/* About title */
+"About" = "Om";
+
+"Search" = "Søk";
+
+/* displayed while MH analyses application (1) */
+"Analyzing %@ ..." = "Analyserer %@ ...";
+
+/* Announcement title */
+"Announcement" = "Kunngjøring";
+
+/* API Error title */
+"API Error" = "API Error";
+
+/* Application Description title */
+"Application Description:" = "Applikasjonsbeskrivelse:";
+
+/* report reason */
+"Application doesn't launch." = "Applikasjonen kan ikke startes.";
+
+/* Application will not install. */
+"Application will not install." = "Applikasjonen kan ikke installeres.";
+
+/* No comment provided by engineer. */
+"Apps" = "Applikasjoner.";
+
+/* No comment provided by engineer. */
+"Apps & Updates" = "Applikasjoner og oppdateringer";
+
+/* apptrackr Password  */
+"apptrackr Password " = "apptrackr Passord ";
+
+/* apptrackr Username  */
+"apptrackr Username " = "apptrackr Brukernavn ";
+
+/* indicates the title of the category which is currently caching */
+"Caching %@" = "Cache %@";
+
+/* Caching All Applications */
+"Caching All Applications" = "Cache All Applications";
+
+/* Cancel */
+"Cancel" = "Avbryt";
+
+/* Categories title */
+"Categories" = "Kategorier";
+
+/* Company title */
+"Company" = "Firma";
+
+/* displayed when a download completed */
+"Completed" = "Ferdig";
+
+/* Connecting... title */
+"Connecting..." = "Kobler til ...";
+
+/* displayed while MH transfers data */
+"Contacting MobileHunt ..." = "Kontakter MobileHunt ...";
+
+/* cracker */
+"Cracked by %@" = "Cracked av %@";
+
+/* Cracked by Unknown */
+"Cracked by Unknown" = "Ukjent Cracker";
+
+/* current version (1) and the new version (2) which causes the update */
+"Current: %@ (New: %@)" = "Aktuell: %1$@ (Ny: %2$@)";
+
+/* Delete */
+"Delete" = "Slett";
+
+/* Delete automatically */
+"Delete automatically" = "Slett Auromatisk";
+
+/* message for about alert */
+"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "Utviklet av Hackulous team\n\nWenn for mer informasjon, besøk\nhttp://hackulo.us/";
+
+/* Disabled title */
+"Disabled" = "Deaktivert";
+
+/* Done button title */
+"Done" = "Ferdig";
+
+/* Download title */
+"Download" = "Last ned";
+
+/* displayed when download completed while in background mode */
+"Download completed: %@" = "Nedlastning fullført: %@";
+
+/* Download failed: (1) download name */
+"Download failed: %@" = "Nedlastning mislykket: %@";
+
+/* Download later button title
+   Download later title */
+"Download later" = "Last ned senere";
+
+/* Download now */
+"Download now" = "Last ned nå";
+
+/* Downloaded title */
+"Downloaded" = "Last ned";
+
+/* actionsheet title */
+"Downloaded IPA selected" = "Last ned valgt IPA";
+
+/* Downloads, title */
+"Downloads" = "Nedlastninger";
+
+/* Enabled title */
+"Enabled" = "Aktiviert";
+
+/* Error */
+"Error" = "Error";
+
+/* Error building SBCache */
+"Error building SBCache" = "Error building SBCache";
+
+/* Error Pushing IPA title */
+"Error Pushing IPA" = "Error Pushing IPA";
+
+/* No comment provided by engineer. */
+"Error while searching for Updates" = "Feil ved søk av oppdatering";
+
+/* displayed when a download failed */
+"Failed to download %@" = "Feil ved nedlastning %@";
+
+/* displayed when trying download a file which is already there
+   File already exists error */
+"File already exists" = "Filen eksisterer allerede";
+
+/* Home title */
+"Home" = "Hjem";
+
+/* Install */
+"Install" = "Installere";
+
+/* Install all */
+"Install all" = "Installer alle";
+
+/* Install automatically */
+"Install automatically" = "Installer automatisk";
+
+/* displayed when an application got installed while installous ran in background mode */
+"Installation completed: %@" = "Installasjon vellykket: %@";
+
+/* displayed when an installation failed */
+"Installation failed: %@" = "Installasjonen feilet: %@";
+
+/* displayed when an application got installed */
+"Installed" = "Installiert";
+
+/* Installing... title */
+"Installing..." = "Installiert ...";
+
+/* iTunes Sync */
+"iTunes Sync" = "iTunes Sync";
+
+/* Latest Version title */
+"Latest Version" = "Siste versjon";
+
+/* Launch App Store */
+"Launch App Store" = "Start App Store";
+
+/* message when link got reported */
+"Link successfully reported" = "Rapportering av Link var vellykket ";
+
+/* Loading title */
+"Loading" = "Laster";
+
+/* Local Notifications */
+"Local Notifications" = "Local Notifications";
+
+/* LocalSharing
+   LocalSharing title */
+"LocalSharing" = "LocalSharing";
+
+/* localsharing error */
+"LocalSharing must be enabled to send IPAs!" = "LocalSharing må være på for å sende IPAer!"
+
+/* localsharing error
+   LocalSharing error */
+"LocalSharing requires at least iOS 4.0!" = "LocalSharing behøver minst iOS 4.0!";
+
+/* MobileHunt */
+"MobileHunt" = "MobileHunt";
+
+/* error while rebuilding sbcache */
+"No DSID found" = "No DSID found";
+
+/* No comment provided by engineer. */
+"No Updates available" = "Ingen oppdateringer tilgjengelig";
+
+/* OK */
+"OK" = "OK";
+
+/* Only show iPad Apps */
+"Only show iPad Apps" = "Bare vis iPad Apps";
+
+/* report reasons */
+"Other" = "Andre";
+
+/* Password */
+"Password" = "Passord";
+
+/* hint to solve reporting fail */
+"Please enter a valid apptrackr account in Settings" = "Vær så snill å skriv inn gyldig apptrackr konto i innstillinger";
+
+/* No comment provided by engineer. */
+"Popularity" = "popularitet";
+
+/* Price title */
+"Price" = "Pris";
+
+/* Queued */
+"Queued" = "Kø";
+
+/* Receiving */
+"Receiving" = "Mottar";
+
+/* Release Date title */
+"Release Date" = "Utgivelsesdag";
+
+/* Reload Categories */
+"Reload Categories" = "Last kategorier på nytt";
+
+/* Remove Metadata */
+"Remove Metadata" = "Slett Metadata";
+
+/* Report button title */
+"Report" = "Rapporter";
+
+/* title for small notification */
+"Reported" = "Rapportert";
+
+/* Requesting Categories title */
+"Requesting Categories" = "Last Kategorier";
+
+/* title for MH requesting permission from a user */
+"Requesting Permission" = "Spør om tillatelse";
+
+/* Requirements title */
+"Requirements:" = "Krav:";
+
+/* title while MH scans installed applications */
+"Scanning Applications ..." = "Scanner Applikasjoner ...";
+
+/* Searching ... title */
+"Searching ..." = "Søker ...";
+
+/* No comment provided by engineer. */
+"Searching for Updates" = "Søker etter oppdatering";
+
+/* alertview title */
+"Select Device" = "Velg enhet";
+
+/* Send IPA */
+"Send IPA" = "Sende IPA";
+
+/* Settings title */
+"Settings" = "innstillinger";
+
+/* Size title */
+"Size" = "Størrelse";
+
+/* Started download */
+"Started" = "Startet";
+
+/* error while rebuilding sbcache */
+"stat() failed" = "stat() failed";
+
+/* report reason */
+"The filehost is very slow." = "Filehost er treg.";
+
+/* report reason */
+"The link is dead." = "Linken fungerer ikke.";
+
+/* error while rebuilding sbcache */
+"Unable to load sandboxes" = "Unable to load sandboxes";
+
+/* error while rebuilding sbcache */
+"Unable to own cache" = "Unable to own cache";
+
+/* error while rebuilding sbcache */
+"Unable to save cache" = "Unable to save cache";
+
+/* title if reporting link fails */
+"Unable to submit Report" = "Kunne ikke sende Rapport";
+
+/* Unexpected content error */
+"Unexpected content" = "Uventet innhold";
+
+/* Updates title */
+"Updates" = "Oppdateringer";
+
+/* displayed when an MH upload failes */
+"Upload failed" = "Opplasting feilet";
+
+/* displayed when an application was uploaded over webserver */
+"Uploaded" = "Last opp";
+
+/* displayed while MH uploads some files */
+"Uploading Files " = "Laster opp Filer ";
+
+/* error while rebuilding sbcache */
+"User key doesn't exist" = "User key doesn't exist";
+
+/* Username */
+"Username" = "Brukernavn";
+
+/* The latest version of an application
+   Version
+   Version: (1) */
+"Version: %@" = "Versjon: %@";
+
+/* Displayed on bottom of search and category to load 15 more apps */
+"View 15 more Apps" = "Se 15 applikasoner til";
+
+/* View in Safari button for extern URLs */
+"View in Safari" = "Se i Safari";
+
+/* View this application on the App Store */
+"View this application on the App Store" = "Se denne applikasjonen i App Store";
+
+/* message while reqesting permission from a user for transfering MH application */
+"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "Vi har ikke applikasjonen'%@', men det har du! Ønsker du å bidra med filer (sikkert i bakgrunnen) slik at vi kan tilby dem til andre?";
+
+/* What's new in Version (1) title */
+"What's new in Version %@:" = "Nytt i versjon %@:";
+
+/* report link title */
+"Why do you want to report this link?" = "Hvorfor vil du melde fra om denne linken?";
+
+/* report reason */
+"Wrong Version" = "Feil versjon";
+
 /* stop a torrent */
 "Stop" = "Stopp";
 

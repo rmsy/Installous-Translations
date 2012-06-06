@@ -1,3 +1,347 @@
+/* No comment provided by engineer. */
+"%d Updates available" = "%d διαθέσιμες ενημερώσεις";
+
+/* indicates, which current page (1) is displayed and how many other pages (2) are available */
+"(Page %i of %i)" = "(Σελίδα %1$i από %2$i)";
+
+/* No comment provided by engineer. */
+"1 Update available" = "1 διαθέσιμη ενημέρωση";
+
+/* About title */
+"About" = "Περί";
+
+"Search" = "Αναζήτηση";
+
+/* displayed while MH analyses application (1) */
+"Analyzing %@ ..." = "Ανάλυση %@ ...";
+
+/* Announcement title */
+"Announcement" = "Ανακοίνωση";
+
+/* API Error title */
+"API Error" = "Σφάλμα API";
+
+/* Application Description title */
+"Application Description:" = "Περιγραφή Εφαρμογής:";
+
+/* report reason */
+"Application doesn't launch." = "Η εφαρμογή δεν ανοίγει.";
+
+/* Application will not install. */
+"Application will not install." = "Η εφαρμογή δε θα εγκατασταθεί.";
+
+/* No comment provided by engineer. */
+"Apps" = "Εφαρμ.";
+
+/* No comment provided by engineer. */
+"Apps & Updates" = "Εφαρμ. & Ενημερώσεις";
+
+/* apptrackr Password  */
+"apptrackr Password " = "κωδικός apptrackr ";
+
+/* apptrackr Username  */
+"apptrackr Username " = "όνομα χρήστη apptrackr ";
+
+/* indicates the title of the category which is currently caching */
+"Caching %@" = "Caching %@";
+
+/* Caching All Applications */
+"Caching All Applications" = "Cache All Applications";
+
+/* Cancel */
+"Cancel" = "Ακύρωση";
+
+/* Categories title */
+"Categories" = "Κατηγορίες";
+
+/* Company title */
+"Company" = "Εταιρία";
+
+/* displayed when a download completed */
+"Completed" = "Ολοκληρώθηκε";
+
+/* Connecting... title */
+"Connecting..." = "Σύνδεση ...";
+
+/* displayed while MH transfers data */
+"Contacting MobileHunt ..." = "επικοινωνώντας MobileHunt ...";
+
+/* cracker */
+"Cracked by %@" = "Σπασμένο από %@";
+
+/* Cracked by Unknown */
+"Cracked by Unknown" = "Άγνωστος Cracker";
+
+/* current version (1) and the new version (2) which causes the update */
+"Current: %@ (New: %@)" = "Τρέχων: %1$@ (Καινούργιο: %2$@)";
+
+/* Delete */
+"Delete" = "Διαγραφή";
+
+/* Delete automatically */
+"Delete automatically" = "Αυτόματη διαγραφή";
+
+/* message for about alert */
+"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "Αναπτύχθηκε από τη Hackulous team\n\nΓια περισσότερες πληροφορίες, επισκεφτείτε\nhttp://hackulo.us/";
+
+/* Disabled title */
+"Disabled" = "Απενεργοποιημένο";
+
+/* Done button title */
+"Done" = "Τέλος";
+
+/* Download title */
+"Download" = "Κατέβασμα";
+
+/* displayed when download completed while in background mode */
+"Download completed: %@" = "Το κατέβασμα ολοκληρώθηκε: %@";
+
+/* Download failed: (1) download name */
+"Download failed: %@" = "Το κατέβασμα απέτυχε: %@";
+
+/* Download later button title
+   Download later title */
+"Download later" = "Κατλεβασμα αργότερα";
+
+/* Download now */
+"Download now" = "Κατέβασμα τώρα";
+
+/* Downloaded title */
+"Downloaded" = "Κατεβασμένο";
+
+/* actionsheet title */
+"Downloaded IPA selected" = "Επιλέχθηκε το κατεβασμένο IPA";
+
+/* Downloads, title */
+"Downloads" = "Downloads";
+
+/* Enabled title */
+"Enabled" = "Ενεργοποιημένο";
+
+/* Error */
+"Error" = "Σφάλμα";
+
+/* Error building SBCache */
+"Error building SBCache" = "Σφάλμα κατά τη δημιουργία SBCache";
+
+/* Error Pushing IPA title */
+"Error Pushing IPA" = "Σφάλμα Ώθησης του IPA";
+
+/* No comment provided by engineer. */
+"Error while searching for Updates" = "Σφάλμα κατά την αναζήτηση ενημερώσεων";
+
+/* displayed when a download failed */
+"Failed to download %@" = "Το κατέβασμα %@ απέτυχε";
+
+/* displayed when trying download a file which is already there
+   File already exists error */
+"File already exists" = "Το αρχείο υπάρχει ήδη";
+
+/* Home title */
+"Home" = "Αρχική";
+
+/* Install */
+"Install" = "Εγκατάσταση";
+
+/* Install all */
+"Install all" = "Εγκατάσταση όλων";
+
+/* Install automatically */
+"Install automatically" = "Αυτόματη εγκατάσταση";
+
+/* displayed when an application got installed while installous ran in background mode */
+"Installation completed: %@" = "Η εγκατάσταση ολοκληρώθηκε: %@";
+
+/* displayed when an installation failed */
+"Installation failed: %@" = "Η εγκατάσταση απέτυχε: %@";
+
+/* displayed when an application got installed */
+"Installed" = "Εγκατεστημένο";
+
+/* Installing... title */
+"Installing..." = "Εγκατάσταση ...";
+
+/* iTunes Sync */
+"iTunes Sync" = "iTunes Sync";
+
+/* Latest Version title */
+"Latest Version" = "Τελευταία έκδοση";
+
+/* Launch App Store */
+"Launch App Store" = "Εκκίνηση App Store";
+
+/* message when link got reported */
+"Link successfully reported" = "Ο σύνδεσμος αναφέρθηκε επιτυχώς";
+
+/* Loading title */
+"Loading" = "Φόρτωση";
+
+/* Local Notifications */
+"Local Notifications" = "Τοπικές Ειδοποιήσεις";
+
+/* LocalSharing
+   LocalSharing title */
+"LocalSharing" = "ΤοπικόςΔιαμοιρασμός";
+
+/* localsharing error */
+"LocalSharing must be enabled to send IPAs!" = "Ο ΤοπικόςΔιαμοιρασμός πρέπει να είναι ενεργοποιημένος, για να στείλετε αρχεία IPA!";
+
+/* localsharing error
+   LocalSharing error */
+"LocalSharing requires at least iOS 4.0!" = "Ο ΤοπικόςΔιαμοιρασμός απαιτεί τουλάχιστον iOS 4.0!";
+
+/* MobileHunt */
+"MobileHunt" = "MobileHunt";
+
+/* error while rebuilding sbcache */
+"No DSID found" = "Δε βρέθηκε DSID";
+
+/* No comment provided by engineer. */
+"No Updates available" = "Δεν υπάρχουν διαθέσιμες ενημερώσεις";
+
+/* OK */
+"OK" = "Εντάξει";
+
+/* Only show iPad Apps */
+"Only show iPad Apps" = "Εμφάνιση μόνο εφαρμογών για iPad";
+
+/* report reasons */
+"Other" = "Άλλα";
+
+/* Password */
+"Password" = "Κωδικός";
+
+/* hint to solve reporting fail */
+"Please enter a valid apptrackr account in Settings" = "Παρακαλώ εισάγετε έναν έγκυρο λογαριασμό apptrackr στις Ρυθμίσεις";
+
+/* No comment provided by engineer. */
+"Popularity" = "Δημοτικότητα";
+
+/* Price title */
+"Price" = "Τιμή";
+
+/* Queued */
+"Queued" = "Σε αναμονή";
+
+/* Receiving */
+"Receiving" = "Λήψη";
+
+/* Release Date title */
+"Release Date" = "Ημερομηνία έκδοσης";
+
+/* Reload Categories */
+"Reload Categories" = "Επαναφόρτωση Κατηγοριών";
+
+/* Remove Metadata */
+"Remove Metadata" = "Αφαίρεση Μεταδεδομένων";
+
+/* Report button title */
+"Report" = "Αναφορά";
+
+/* title for small notification */
+"Reported" = "Αναφέρθηκε";
+
+/* Requesting Categories title */
+"Requesting Categories" = "Αίτηση Κατηγοριών";
+
+/* title for MH requesting permission from a user */
+"Requesting Permission" = "Αίτηση Άδειας";
+
+/* Requirements title */
+"Requirements:" = "Απαιτήσεις:";
+
+/* title while MH scans installed applications */
+"Scanning Applications ..." = "Σάρωση Εφαρμογών ...";
+
+/* Searching ... title */
+"Searching ..." = "Αναζήτηση ...";
+
+/* No comment provided by engineer. */
+"Searching for Updates" = "Αναζήτηση για Ενημερώσεις";
+
+/* alertview title */
+"Select Device" = "Επιλογή Συσκευής";
+
+/* Send IPA */
+"Send IPA" = "Αποστολή IPA";
+
+/* Settings title */
+"Settings" = "Ρυθμίσεις";
+
+/* Size title */
+"Size" = "Μέγεθος";
+
+/* Started download */
+"Started" = "Εκκινήθηκε";
+
+/* error while rebuilding sbcache */
+"stat() failed" = "το stat() απέτυχε";
+
+/* report reason */
+"The filehost is very slow." = "Το filehost είναι πολύ αργό.";
+
+/* report reason */
+"The link is dead." = "Ο σύνδεσμος είναι νεκρός.";
+
+/* error while rebuilding sbcache */
+"Unable to load sandboxes" = "Αδύνατη η φόρτωση των sandboxes";
+
+/* error while rebuilding sbcache */
+"Unable to own cache" = "Αδύνατη η ιδιοποίηση της cache";
+
+/* error while rebuilding sbcache */
+"Unable to save cache" = "Αδύνατη η αποθήκευση της cache";
+
+/* title if reporting link fails */
+"Unable to submit Report" = "Αδύνατη η υποβολή της Αναφοράς";
+
+/* Unexpected content error */
+"Unexpected content" = "Αναπάντεχο περιεχόμενο";
+
+/* Updates title */
+"Updates" = "Ενημερώσεις";
+
+/* displayed when an MH upload failes */
+"Upload failed" = "Το ανέβασμα απέτυχε";
+
+/* displayed when an application was uploaded over webserver */
+"Uploaded" = "Ανέβηκε";
+
+/* displayed while MH uploads some files */
+"Uploading Files " = "Ανέβασμα Αρχείων ";
+
+/* error while rebuilding sbcache */
+"User key doesn't exist" = "Το κλειδί του χρήστη δεν υπάρχει";
+
+/* Username */
+"Username" = "Όνομα χρήστη";
+
+/* The latest version of an application
+   Version
+   Version: (1) */
+"Version: %@" = "Έκδοση: %@";
+
+/* Displayed on bottom of search and category to load 15 more apps */
+"View 15 more Apps" = "Εμφάνιση 15 ακόμη Εφαρμογών";
+
+/* View in Safari button for extern URLs */
+"View in Safari" = "Άνοιγμα Safari";
+
+/* View this application on the App Store */
+"View this application on the App Store" = "Εμφάνιση της εφαρμογής στο App Store";
+
+/* message while reqesting permission from a user for transfering MH application */
+"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "Δεν έχουμε την εφαρμογή '%@', αλλά εσείς την έχετε! Θα σας πείραζε να συνεισφέρετε κάποια αρχεία (ασφαλώς στο υπόβαθρο) έτσι ώστε να την προσφέρουμε σε άλλους;";
+
+/* What's new in Version (1) title */
+"What's new in Version %@:" = "Τι καινούργιο υπάρχει σε αυτή την Έκδοση %@:";
+
+/* report link title */
+"Why do you want to report this link?" = "Γιατί θέλετε να αναφέρετε αυτόν τον σύνδεσμο;";
+
+/* report reason */
+"Wrong Version" = "Λάθος Έκδοση";
+
 /* stop a torrent */
 "Stop" = "Διακοπή";
 

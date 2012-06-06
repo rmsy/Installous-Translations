@@ -1,3 +1,347 @@
+/* No comment provided by engineer. */
+"%d Updates available" = "%d עדכונים זמינים";
+
+/* indicates, which current page (1) is displayed and how many other pages (2) are available */
+"(Page %i of %i)" = "(עמוד %i מתוך %i)";
+
+/* No comment provided by engineer. */
+"1 Update available" = "עדכון אחד זמין";
+
+/* About title */
+"About" = "אודות";
+
+"Search" = "חיפוש";
+
+/* displayed while MH analyses application (1) */
+"Analyzing %@ ..." = "מנתך %@ ...";
+
+/* Announcement title */
+"Announcement" = "הודעה";
+
+/* API Error title */
+"API Error" = "שגיאת אינטרנט";
+
+/* Application Description title */
+"Application Description:" = "תאור היישום:";
+
+/* report reason */
+"Application doesn't launch." = "היישום לא הופעל.";
+
+/* Application will not install. */
+"Application will not install." = "היישום לא יותקן.";
+
+/* No comment provided by engineer. */
+"Apps" = "יישומים.";
+
+/* No comment provided by engineer. */
+"Apps & Updates" = "יישומים ועדכונים";
+
+/* apptrackr Password  */
+"apptrackr Password " = "apptrackr סיסמת ";
+
+/* apptrackr שם משתמש  */
+"apptrackr Username " = " שם משתמש ל-apptrackr";
+
+/* indicates the title of the category which is currently caching */
+"Caching %@" = "מטמין %@";
+
+/* Caching All Applications */
+"Caching All Applications" = "מטמון של כל היישומים";
+
+/* Cancel */
+"Cancel" = "בטל";
+
+/* Categories title */
+"Categories" = "קטגוריות";
+
+/* Company title */
+"Company" = "חברה";
+
+/* displayed when a download completed */
+"Completed" = "סיים!";
+
+/* Connecting... title */
+"Connecting..." = "מתחבר ...";
+
+/* displayed while MH transfers data */
+"Contacting MobileHunt ..." = "מתחבר ל- MobileHunt ...";
+
+/* cracker */
+"Cracked by %@" = "נפרץ ע"י %@";
+
+/* Cracked by Unknown */
+"Cracked by Unknown" = "נפרץ ע"י לא ידוע";
+
+/* current version (1) and the new version (2) which causes the update */
+"Current: %@ (New: %@)" = "נוכחית: %1$@ (חדשה: %2$@)";
+
+/* Delete */
+"Delete" = "מחק";
+
+/* Delete automatically */
+"Delete automatically" = "מחק אוטומטי";
+
+/* message for about alert */
+"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "הומצא ע"י צוות Hackulous \n\nליותר מידע, כנס ל:\nhttp://hackulo.us/";
+
+/* Disabled title */
+"Disabled" = "נטרל";
+
+/* Done button title */
+"Done" = "סיים";
+
+/* Download title */
+"Download" = "הורד";
+
+/* displayed when download completed while in background mode */
+"Download completed: %@" = "הורדה הסתיימה: %@";
+
+/* Download failed: (1) download name */
+"Download failed: %@" = "הורדה נכשלה: %@";
+
+/* Download later button title
+   Download later title */
+"Download later" = "הורד מאוחר יותר";
+
+/* Download now */
+"Download now" = "הורד עכשיו";
+
+/* Downloaded title */
+"Downloaded" = "סיים לרדת";
+
+/* actionsheet title */
+"Downloaded IPA selected" = "הורד IPA נבחר";
+
+/* Downloads, title */
+"Downloads" = "הורדות";
+
+/* Enabled title */
+"Enabled" = "אפשר";
+
+/* Error */
+"Error" = "שגיאה";
+
+/* Error building SBCache */
+"Error building SBCache" = "שגיאה בבנית SBCache";
+
+/* Error Pushing IPA title */
+"Error Pushing IPA" = "שגיאה בקבלת IPA";
+
+/* No comment provided by engineer. */
+"Error while searching for Updates" = "שגיאה בחיפוש אחר עדכונים";
+
+/* displayed when a download failed */
+"Failed to download %@" = "נכשל בהורדת: %@";
+
+/* displayed when trying download a file which is already there
+   File already exists error */
+"File already exists" = "קובץ כבר קיים";
+
+/* Home title */
+"Home" = "דף ראשי";
+
+/* Install */
+"Install" = "התקן";
+
+/* Install all */
+"Install all" = "התקן הכל";
+
+/* Install automatically */
+"Install automatically" = "התקן אוטומטי";
+
+/* displayed when an application got installed while installous ran in background mode */
+"Installation completed: %@" = "התקנה הושלמה: %@";
+
+/* displayed when an installation failed */
+"Installation failed: %@" = "התקנה נכשלה: %@";
+
+/* displayed when an application got installed */
+"Installed" = "הותקן";
+
+/* Installing... title */
+"Installing..." = "מתקין ...";
+
+/* iTunes Sync */
+"iTunes Sync" = "iTunes סנכרון ל-";
+
+/* Latest Version title */
+"Latest Version" = "גירסא אחרונה";
+
+/* Launch App Store */
+"Launch App Store" = "הפעל את App Store";
+
+/* message when link got reported */
+"Link successfully reported" = "קישור נשלח בהצלחה";
+
+/* Loading title */
+"Loading" = "טוען";
+
+/* Local Notifications */
+"Local Notifications" = "הודעות מקומיות";
+
+/* LocalSharing
+   LocalSharing title */
+"LocalSharing" = "שיתוף-מקומי";
+
+/* localsharing error */
+"LocalSharing must be enabled to send IPAs!" = "שיתוף-מקומי חייב להיות מופעל כדי לשלוח קובצי IPA!";
+
+/* localsharing error
+   LocalSharing error */
+"LocalSharing requires at least iOS 4.0!" = "שיתוף-מקומי מחייב גירסא תוכנה של לפחות 4.0!";
+
+/* MobileHunt */
+"MobileHunt" = "MobileHunt";
+
+/* error while rebuilding sbcache */
+"No DSID found" = "DSID לא נמצא";
+
+/* No comment provided by engineer. */
+"No Updates available" = "אין עדכונים זמינים";
+
+/* OK */
+"OK" = "OK";
+
+/* Only show iPad Apps */
+"Only show iPad Apps" = "הראה רק יישומים לאייפד";
+
+/* report reasons */
+"Other" = "אחר";
+
+/* Password */
+"Password" = "סיסמא";
+
+/* hint to solve reporting fail */
+"Please enter a valid apptrackr account in Settings" = "אנא הכנס חשבון apptracker חוקי";
+
+/* No comment provided by engineer. */
+"Popularity" = "פופולריות";
+
+/* Price title */
+"Price" = "מחיר";
+
+/* Queued */
+"Queued" = "בתור";
+
+/* Receiving */
+"Receiving" = "מקבל..";
+
+/* Release Date title */
+"Release Date" = "תאריך שחרור";
+
+/* Reload Categories */
+"Reload Categories" = "רענן קתגוריות";
+
+/* Remove Metadata */
+"Remove Metadata" = "Metadata הסר";
+
+/* Report button title */
+"Report" = "דווח";
+
+/* title for small notification */
+"Reported" = "דווח הצליח";
+
+/* Requesting Categories title */
+"Requesting Categories" = "מבקש קטגוריות";
+
+/* title for MH requesting permission from a user */
+"Requesting Permission" = "מבקש רשות";
+
+/* Requirements title */
+"Requirements:" = "בקשות:";
+
+/* title while MH scans installed applications */
+"Scanning Applications ..." = "סורק יישומים ...";
+
+/* Searching ... title */
+"Searching ..." = "מחפש ...";
+
+/* No comment provided by engineer. */
+"Searching for Updates" = "מחפש אחר עדכונים";
+
+/* alertview title */
+"Select Device" = "בחר מכשיר";
+
+/* Send IPA */
+"Send IPA" = "שלח IPA";
+
+/* Settings title */
+"Settings" = "הגדרות";
+
+/* Size title */
+"Size" = "גודל";
+
+/* Started download */
+"Started" = "התחיל להוריד";
+
+/* error while rebuilding sbcache */
+"stat() failed" = "stat() נכשל";
+
+/* report reason */
+"The filehost is very slow." = "מאחסן הקבצים מאוד איטי.";
+
+/* report reason */
+"The link is dead." = "הקישור לא עובד.";
+
+/* error while rebuilding sbcache */
+"Unable to load sandboxes" = "לא מצליח לטעון sandboxes";
+
+/* error while rebuilding sbcache */
+"Unable to own cache" = "לא מצליח לשלוט במטמון";
+
+/* error while rebuilding sbcache */
+"Unable to save cache" = "לא מצליח לשמור מקום";
+
+/* title if reporting link fails */
+"Unable to submit Report" = "לא מצליח לשלוח דו''ח";
+
+/* Unexpected content error */
+"Unexpected content" = "שגיאה לא צפויה";
+
+/* Updates title */
+"Updates" = "עדכונים";
+
+/* displayed when an MH upload failes */
+"Upload failed" = "העלאה נכשלה";
+
+/* displayed when an application was uploaded over webserver */
+"Uploaded" = "הועלה";
+
+/* displayed while MH uploads some files */
+"Uploading Files " = "מעלה קבצים ";
+
+/* error while rebuilding sbcache */
+"User key doesn't exist" = "מזהה משתמש אינו נמצא";
+
+/* Username */
+"Username" = "שם-משתמש";
+
+/* The latest version of an application
+   Version
+   Version: (1) */
+"Version: %@" = "גירסא: %@";
+
+/* Displayed on bottom of search and category to load 15 more apps */
+"View 15 more Apps" = "הצג עוד 15 יישומים";
+
+/* View in Safari button for extern URLs */
+"View in Safari" = "הצג בדפדפן ספארי";
+
+/* View this application on the App Store */
+"View this application on the App Store" = "הצג יישום ב App Store";
+
+/* message while reqesting permission from a user for transfering MH application */
+"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "אין לנו את היישום '%@' אבל לך יש! איכפת לך לתרום כמה קבצים כדי שנוכל להציע את זה לאחרים?";
+
+/* What's new in Version (1) title */
+"What's new in Version %@:" = "מה חדש בגירסא %@:";
+
+/* report link title */
+"Why do you want to report this link?" = "למה אתה רוצה לדווח על הקישור הזה?";
+
+/* report reason */
+"Wrong Version" = "גירסא לא נכונה";
+
 /* stop a torrent */
 "Stop" = "עצור";
 

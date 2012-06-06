@@ -1,3 +1,347 @@
+/* No comment provided by engineer. */
+"%d Updates available" = "%d Atualizações disponíveis";
+
+/* indicates, which current page (1) is displayed and how many other pages (2) are available */
+"(Page %i of %i)" = "(Página %1$i de %2$i)";
+
+/* No comment provided by engineer. */
+"1 Update available" = "1 Atualização disponível";
+
+/* About title */
+"About" = "Sobre";
+
+"Search" = "Pesquisar";
+
+/* displayed while MH analyses application (1) */
+"Analyzing %@ ..." = "Analisando %@ ...";
+
+/* Announcement title */
+"Announcement" = "Anúncio";
+
+/* API Error title */
+"API Error" = "Erro API";
+
+/* Application Description title */
+"Application Description:" = "Descrição do app:";
+
+/* report reason */
+"Application doesn't launch." = "App não inicia.";
+
+/* Application will not install. */
+"Application will not install." = "App não instalará.";
+
+/* No comment provided by engineer. */
+"Apps" = "Aplicativos";
+
+/* No comment provided by engineer. */
+"Apps & Updates" = "Apps & Atualizações";
+
+/* apptrackr Password  */
+"apptrackr Password " = "senha apptrackr ";
+
+/* apptrackr Username  */
+"apptrackr Username " = "usuário apptrackr ";
+
+/* indicates the title of the category which is currently caching */
+"Caching %@" = "Cache %@";
+
+/* Caching All Applications */
+"Caching All Applications" = "Cacheando todas os Apps";
+
+/* Cancel */
+"Cancel" = "Cancelar";
+
+/* Categories title */
+"Categories" = "Categorias";
+
+/* Company title */
+"Company" = "Companhia";
+
+/* displayed when a download completed */
+"Completed" = "Completo";
+
+/* Connecting... title */
+"Connecting..." = "Conectando ...";
+
+/* displayed while MH transfers data */
+"Contacting MobileHunt ..." = "Contactando MobileHunt...";
+
+/* cracker */
+"Cracked by %@" = "Crackeado por %@";
+
+/* Cracked by Unknown */
+"Cracked by Unknown" = "Crackeado por desconhecido";
+
+/* current version (1) and the new version (2) which causes the update */
+"Current: %@ (New: %@)" = "Corrente: %1$@ (Novo: %2$@)";
+
+/* Delete */
+"Delete" = "Remover";
+
+/* Delete automatically */
+"Delete automatically" = "Remover automaticamente";
+
+/* message for about alert */
+"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "Desenvolvido pelo time Hackulous\n\nPara mais informações, visite\nhttp://hackulo.us/";
+
+/* Disabled title */
+"Disabled" = "Desativado";
+
+/* Done button title */
+"Done" = "Feito";
+
+/* Download title */
+"Download" = "Baixar";
+
+/* displayed when download completed while in background mode */
+"Download completed: %@" = "Download completo: %@";
+
+/* Download failed: (1) download name */
+"Download failed: %@" = "Download falhou: %@";
+
+/* Download later button title
+   Download later title */
+"Download later" = "Baixar mais tarde";
+
+/* Download now */
+"Download now" = "Baixar agora";
+
+/* Downloaded title */
+"Downloaded" = "Baixado";
+
+/* actionsheet title */
+"Downloaded IPA selected" = "IPA baixado foi selecionado";
+
+/* Downloads, title */
+"Downloads" = "Downloads";
+
+/* Enabled title */
+"Enabled" = "Ativado";
+
+/* Error */
+"Error" = "Erro";
+
+/* Error building SBCache */
+"Error building SBCache" = "Erro construindo SBCache";
+
+/* Error Pushing IPA title */
+"Error Pushing IPA" = "Erro baixando IPA";
+
+/* No comment provided by engineer. */
+"Error while searching for Updates" = "Erro enquanto procurando por Atualizações";
+
+/* displayed when a download failed */
+"Failed to download %@" = "Download de %@ falhou";
+
+/* displayed when trying download a file which is already there
+   File already exists error */
+"File already exists" = "Arquivo já existe";
+
+/* Home title */
+"Home" = "Início";
+
+/* Install */
+"Install" = "Instalar";
+
+/* Install all */
+"Install all" = "Instalar tudo";
+
+/* Install automatically */
+"Install automatically" = "Instalar automaticamente";
+
+/* displayed when an application got installed while installous ran in background mode */
+"Installation completed: %@" = "Instalação completa %@";
+
+/* displayed when an installation failed */
+"Installation failed: %@" = "Instalação falhou: %@";
+
+/* displayed when an application got installed */
+"Installed" = "Instalado";
+
+/* Installing... title */
+"Installing..." = "Instalando ...";
+
+/* iTunes Sync */
+"iTunes Sync" = "Sincronização iTunes";
+
+/* Latest Version title */
+"Latest Version" = "Última versão";
+
+/* Launch App Store */
+"Launch App Store" = "Iniciar App Store";
+
+/* message when link got reported */
+"Link successfully reported" = "Link reportado com sucesso";
+
+/* Loading title */
+"Loading" = "Carregando";
+
+/* Local Notifications */
+"Local Notifications" = "Notificações locais";
+
+/* LocalSharing
+   LocalSharing title */
+"LocalSharing" = "LocalSharing";
+
+/* localsharing error */
+"LocalSharing must be enabled to send IPAs!" = "LocalSharing deve estar ativado para enviar IPAs!";
+
+/* localsharing error
+   LocalSharing error */
+"LocalSharing requires at least iOS 4.0!" = "LocalSharing requer no mínimo iOS 4.0!";
+
+/* MobileHunt */
+"MobileHunt" = "MobileHunt";
+
+/* error while rebuilding sbcache */
+"No DSID found" = "DSID não encontrado";
+
+/* No comment provided by engineer. */
+"No Updates available" = "Nenhuma atualização encontrada";
+
+/* OK */
+"OK" = "OK";
+
+/* Only show iPad Apps */
+"Only show iPad Apps" = "Mostrar apenas Apps para iPad";
+
+/* report reasons */
+"Other" = "Outro";
+
+/* Password */
+"Password" = "Senha";
+
+/* hint to solve reporting fail */
+"Please enter a valid apptrackr account in Settings" = "Por favor insira uma conta apptrackr válida nos Ajustes";
+
+/* No comment provided by engineer. */
+"Popularity" = "Popularidade";
+
+/* Price title */
+"Price" = "Preço";
+
+/* Queued */
+"Queued" = "Em Espera";
+
+/* Receiving */
+"Receiving" = "Recebendo";
+
+/* Release Date title */
+"Release Date" = "Data de lançamento";
+
+/* Reload Categories */
+"Reload Categories" = "Atualizar Categorias";
+
+/* Remove Metadata */
+"Remove Metadata" = "Remover Metadata";
+
+/* Report button title */
+"Report" = "Reportar";
+
+/* title for small notification */
+"Reported" = "Reportado";
+
+/* Requesting Categories title */
+"Requesting Categories" = "Requisitando Categorias";
+
+/* title for MH requesting permission from a user */
+"Requesting Permission" = "Requisitando Permissão";
+
+/* Requirements title */
+"Requirements:" = "Requerimentos:";
+
+/* title while MH scans installed applications */
+"Scanning Applications ..." = "Escaneando Apps ...";
+
+/* Searching ... title */
+"Searching ..." = "Procurando ...";
+
+/* No comment provided by engineer. */
+"Searching for Updates" = "Procurando por Atualizações";
+
+/* alertview title */
+"Select Device" = "Selecione Aparelho";
+
+/* Send IPA */
+"Send IPA" = "Enviando IPA";
+
+/* Settings title */
+"Settings" = "Ajustes";
+
+/* Size title */
+"Size" = "Tamanho";
+
+/* Started download */
+"Started" = "Iniciou";
+
+/* error while rebuilding sbcache */
+"stat() failed" = "stat() falhou";
+
+/* report reason */
+"The filehost is very slow." = "O servidor de arquivos é muito lento.";
+
+/* report reason */
+"The link is dead." = "O link está off.";
+
+/* error while rebuilding sbcache */
+"Unable to load sandboxes" = "Incapaz de carregar sandboxes";
+
+/* error while rebuilding sbcache */
+"Unable to own cache" = "Incapaz de possuir cache";
+
+/* error while rebuilding sbcache */
+"Unable to save cache" = "Incapaz de salvar cache";
+
+/* title if reporting link fails */
+"Unable to submit Report" = "Incapaz de enviar Relatório";
+
+/* Unexpected content error */
+"Unexpected content" = "Conteúdo inesperado";
+
+/* Updates title */
+"Updates" = "Atualizações";
+
+/* displayed when an MH upload failes */
+"Upload failed" = "Envio falhou";
+
+/* displayed when an application was uploaded over webserver */
+"Uploaded" = "Enviado";
+
+/* displayed while MH uploads some files */
+"Uploading Files " = "Enviando arquivos ";
+
+/* error while rebuilding sbcache */
+"User key doesn't exist" = "Chave do usuário não existe";
+
+/* Username */
+"Username" = "Usuário";
+
+/* The latest version of an application
+   Version
+   Version: (1) */
+"Version: %@" = "Versão: %@";
+
+/* Displayed on bottom of search and category to load 15 more apps */
+"View 15 more Apps" = "Ver mais 15 Apps";
+
+/* View in Safari button for extern URLs */
+"View in Safari" = "Ver no Safari";
+
+/* View this application on the App Store */
+"View this application on the App Store" = "Ver essa aplicação na App Store";
+
+/* message while reqesting permission from a user for transfering MH application */
+"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "Nós não temos a aplicação '%@', mas você tem! Você se incomodaria em contribuir com alguns arquivos (com segurança interna) para que nós possamos oferecer os mesmos para outros?";
+
+/* What's new in Version (1) title */
+"What's new in Version %@:" = "Novidades na versão %@:";
+
+/* report link title */
+"Why do you want to report this link?" = "Porque você quer reportar este link?";
+
+/* report reason */
+"Wrong Version" = "Versão errada";
+
 /* stop a torrent */
 "Stop" = "Pausar";
 

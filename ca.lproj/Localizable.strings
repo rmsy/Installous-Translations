@@ -1,3 +1,347 @@
+/* No comment provided by engineer. */
+"%d Updates available" = "%d Actualitzacions disponibles ";
+
+/* indicates, which current page (1) is displayed and how many other pages (2) are available */
+"(Page %i of %i)" = "(Pagina %1$i de %2$i)";
+
+/* No comment provided by engineer. */
+"1 Update available" = "1 Actualització Disponible";
+
+/* About title */
+"About" = "Sobre";
+
+"Search" = "Buscar";
+
+/* displayed while MH analyses application (1) */
+"Analyzing %@ ..." = "Analitzar %@ ...";
+
+/* Announcement title */
+"Announcement" = "Anunci";
+
+/* API Error title */
+"API Error" = "Error en l'API";
+
+/* Application Description title */
+"Application Description:" = "Descripció de l'aplicació:";
+
+/* report reason */
+"Application doesn't launch." = "L'aplicació no s'ha iniciat.";
+
+/* Application will not install. */
+"Application will not install." = "L'aplicació no s'instalarà.";
+
+/* No comment provided by engineer. */
+"Apps" = "Apps.";
+
+/* No comment provided by engineer. */
+"Apps & Updates" = "Apps & Actualitz.";
+
+/* apptrackr Password  */
+"apptrackr Password " = "Contrasenya apptrackr ";
+
+/* apptrackr Username  */
+"apptrackr Username " = "Nom d'usuari apptrackr";
+
+/* indicates the title of the category which is currently caching */
+"Caching %@" = "Emmagatzematge en memòria cau %@";
+
+/* Caching All Applications */
+"Caching All Applications" = "Emmagatzemar en memòria cau totes les aplicacions";
+
+/* Cancel */
+"Cancel" = "Cancelar";
+
+/* Categories title */
+"Categories" = "Categories";
+
+/* Company title */
+"Company" = "Companyia";
+
+/* displayed when a download completed */
+"Completed" = "Completat";
+
+/* Connecting... title */
+"Connecting..." = "Connectant ...";
+
+/* displayed while MH transfers data */
+"Contacting MobileHunt ..." = "Connectant amb MobileHunt...";
+
+/* cracker */
+"Cracked by %@" = "Craquejat per  %@";
+
+/* Cracked by Unknown */
+"Cracked by Unknown" = "Craquejador desconegut";
+
+/* current version (1) and the new version (2) which causes the update */
+"Current: %@ (New: %@)" = "Actual: %1$@ (Nou: %2$@)";
+
+/* Delete */
+"Delete" = "Esborrar";
+
+/* Delete automatically */
+"Delete automatically" = "Esborrar automàticament";
+
+/* message for about alert */
+"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "Desenvolupat per l'equip Hackulous\n\nPer més informació, visita\nhttp://hackulo.us/";
+
+/* Disabled title */
+"Disabled" = "Desactivar";
+
+/* Done button title */
+"Done" = "Fet";
+
+/* Download title */
+"Download" = "Descargar";
+
+/* displayed when download completed while in background mode */
+"Download completed: %@" = "Descàrrega completa: %@";
+
+/* Download failed: (1) download name */
+"Download failed: %@" = "Error en la descàrrega: %@";
+
+/* Download later button title
+   Download later title */
+"Download later" = "Descarregar més tard";
+
+/* Download now */
+"Download now" = "Descarregar ara";
+
+/* Downloaded title */
+"Downloaded" = "Descarregat";
+
+/* actionsheet title */
+"Downloaded IPA selected" = "Descarregar la IPA seleccionada";
+
+/* Downloads, title */
+"Downloads" = "Descàrregues";
+
+/* Enabled title */
+"Enabled" = "Activar";
+
+/* Error */
+"Error" = "Error";
+
+/* Error building SBCache */
+"Error building SBCache" = "Error construin SBCache";
+
+/* Error Pushing IPA title */
+"Error Pushing IPA" = "Error Pushing IPA";
+
+/* No comment provided by engineer. */
+"Error while searching for Updates" = "Error mentors es cercaven actualitzacions";
+
+/* displayed when a download failed */
+"Failed to download %@" = "Error en la descàrrega %@";
+
+/* displayed when trying download a file which is already there
+   File already exists error */
+"File already exists" = "L'arxiu ja existeix";
+
+/* Home title */
+"Home" = "Pàgina Principal";
+
+/* Install */
+"Install" = "Instal·lar";
+
+/* Install all */
+"Install all" = "Instal·lar-ho tot";
+
+/* Install automatically */
+"Install automatically" = "Instal·lar-ho automàticament";
+
+/* displayed when an application got installed while installous ran in background mode */
+"Installation completed: %@" = "Iinstal·lació complerta: %@";
+
+/* displayed when an installation failed */
+"Installation failed: %@" = "Error en l'instal·lació: %@";
+
+/* displayed when an application got installed */
+"Installed" = "Instal·lat";
+
+/* Installing... title */
+"Installing..." = "Instal·lant ...";
+
+/* iTunes Sync */
+"iTunes Sync" = "Sincronització amb iTunes";
+
+/* Latest Version title */
+"Latest Version" = "Última versió";
+
+/* Launch App Store */
+"Launch App Store" = "Llença l'App Store";
+
+/* message when link got reported */
+"Link successfully reported" = "Enllaç reportat amb èxit";
+
+/* Loading title */
+"Loading" = "Carregant";
+
+/* Local Notifications */
+"Local Notifications" = "Notificacions locals";
+
+/* LocalSharing
+   LocalSharing title */
+"LocalSharing" = "LocalSharing";
+
+/* localsharing error */
+"LocalSharing must be enabled to send IPAs!" = "LocalSharing ha d'estar habilitat per enviar IPAs!";
+
+/* localsharing error
+   LocalSharing error */
+"LocalSharing requires at least iOS 4.0!" = "LocalSharing necessita com a mínim iOS 4.0!";
+
+/* MobileHunt */
+"MobileHunt" = "MobileHunt";
+
+/* error while rebuilding sbcache */
+"No DSID found" = "No s'ha trobat el DSID";
+
+/* No comment provided by engineer. */
+"No Updates available" = "No hi han actualitzacions";
+
+/* OK */
+"OK" = "OK";
+
+/* Only show iPad Apps */
+"Only show iPad Apps" = "Mostra gnomes les aplicacions per l'iPad";
+
+/* report reasons */
+"Other" = "Altres";
+
+/* Password */
+"Password" = "Contrasenya";
+
+/* hint to solve reporting fail */
+"Please enter a valid apptrackr account in Settings" = "Si us plau entreu una compta vàlida per apptrackr en les opcions";
+
+/* No comment provided by engineer. */
+"Popularity" = "Popular";
+
+/* Price title */
+"Price" = "Preu";
+
+/* Queued */
+"Queued" = "Cua";
+
+/* Receiving */
+"Receiving" = "Reben";
+
+/* Release Date title */
+"Release Date" = "Data de llançament";
+
+/* Reload Categories */
+"Reload Categories" = "Refrescar categories";
+
+/* Remove Metadata */
+"Remove Metadata" = "Esborra Metadata";
+
+/* Report button title */
+"Report" = "Informe";
+
+/* title for small notification */
+"Reported" = "Informar";
+
+/* Requesting Categories title */
+"Requesting Categories" = "Demanant categories";
+
+/* title for MH requesting permission from a user */
+"Requesting Permission" = "Demanant permisos";
+
+/* Requirements title */
+"Requirements:" = "Requeriments:";
+
+/* title while MH scans installed applications */
+"Scanning Applications ..." = "Escanejant aplicacions ...";
+
+/* Searching ... title */
+"Searching ..." = "Buscan ...";
+
+/* No comment provided by engineer. */
+"Searching for Updates" = "Buscan Aplicacions";
+
+/* alertview title */
+"Select Device" = "Escull Dispositiu";
+
+/* Send IPA */
+"Send IPA" = "Envia IPA";
+
+/* Settings title */
+"Settings" = "Configuració";
+
+/* Size title */
+"Size" = "Tamany";
+
+/* Started download */
+"Started" = "Començada";
+
+/* error while rebuilding sbcache */
+"stat() failed" = "stat() failed";
+
+/* report reason */
+"The filehost is very slow." = "Filehost va molt lent.";
+
+/* report reason */
+"The link is dead." = "L'enllaç està caigut.";
+
+/* error while rebuilding sbcache */
+"Unable to load sandboxes" = "No es pot carregar sandboxes";
+
+/* error while rebuilding sbcache */
+"Unable to own cache" = "Unable to own cache";
+
+/* error while rebuilding sbcache */
+"Unable to save cache" = "No es pot guardar la memòria cau";
+
+/* title if reporting link fails */
+"Unable to submit Report" = "No es pot enviar l'informe";
+
+/* Unexpected content error */
+"Unexpected content" = "Contingut inesperat";
+
+/* Updates title */
+"Updates" = "Actualitzacions";
+
+/* displayed when an MH upload failes */
+"Upload failed" = "Pujada fallida";
+
+/* displayed when an application was uploaded over webserver */
+"Uploaded" = "Carregat";
+
+/* displayed while MH uploads some files */
+"Uploading Files " = "Pujant els fitxers ";
+
+/* error while rebuilding sbcache */
+"User key doesn't exist" = "La cal d'usuari no existeix";
+
+/* Username */
+"Username" = "Nom d'usuari";
+
+/* The latest version of an application
+   Version
+   Version: (1) */
+"Version: %@" = "Versió: %@";
+
+/* Displayed on bottom of search and category to load 15 more apps */
+"View 15 more Apps" = "Veure 15 aplicacions més";
+
+/* View in Safari button for extern URLs */
+"View in Safari" = "Veure en el Safari";
+
+/* View this application on the App Store */
+"View this application on the App Store" = "Veure l'aplicació en l'App Store";
+
+/* message while reqesting permission from a user for transfering MH application */
+"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "No tenim l'aplicació '%@' però tu sí! No li importaria contribuir amb alguns arxius (segurament en segon pla) per poder-los oferir als altres?";
+
+/* What's new in Version (1) title */
+"What's new in Version %@:" = "Què hi ha en la nova versió %@:";
+
+/* report link title */
+"Why do you want to report this link?" = "Per què vol reportar aquest enllaç?";
+
+/* report reason */
+"Wrong Version" = "Versió dolenta";
+
 /* stop a torrent */
 "Stop" = "Atura";
 

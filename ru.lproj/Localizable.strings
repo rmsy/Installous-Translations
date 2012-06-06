@@ -1,3 +1,347 @@
+/* No comment provided by engineer. */
+"%d Updates available" = "Доступно обновлений: %d";
+
+/* indicates, which current page (1) is displayed and how many other pages (2) are available */
+"(Page %i of %i)" = "(Страница %1$i из %2$i)";
+
+/* No comment provided by engineer. */
+"1 Update available" = "Доступно одно обновление";
+
+/* About title */
+"About" = "О программе";
+
+"Search" = "Поиск";
+
+/* displayed while MH analyses application (1) */
+"Analyzing %@ ..." = "Анализ %@ ...";
+
+/* Announcement title */
+"Announcement" = "Объявление";
+
+/* API Error title */
+"API Error" = "Ошибка API";
+
+/* Application Description title */
+"Application Description:" = "Описание приложения:";
+
+/* report reason */
+"Application doesn't launch." = "Приложение не запускается.";
+
+/* Application will not install. */
+"Application will not install." = "Приложение не устанавливается.";
+
+/* No comment provided by engineer. */
+"Apps" = "Приложения";
+
+/* No comment provided by engineer. */
+"Apps & Updates" = "Обновления";
+
+/* apptrackr Password  */
+"apptrackr Password " = "Пароль apptrackr ";
+
+/* apptrackr Username  */
+"apptrackr Username " = "Логин apptrackr ";
+
+/* indicates the title of the category which is currently caching */
+"Caching %@" = "Кэширование %@";
+
+/* Caching All Applications */
+"Caching All Applications" = "Кэширование Всех Приложений";
+
+/* Cancel */
+"Cancel" = "Отмена";
+
+/* Categories title */
+"Categories" = "Категории";
+
+/* Company title */
+"Company" = "Компания";
+
+/* displayed when a download completed */
+"Completed" = "Завершено";
+
+/* Connecting... title */
+"Connecting..." = "Соединение ...";
+
+/* displayed while MH transfers data */
+"Contacting MobileHunt ..." = "Соединение с MobileHunt ...";
+
+/* cracker */
+"Cracked by %@" = "Взломано: %@";
+
+/* Cracked by Unknown */
+"Cracked by Unknown" = "Взломано неизвестным";
+
+/* current version (1) and the new version (2) which causes the update */
+"Current: %@ (New: %@)" = "Текущая версия: %1$@ (Новая: %2$@)";
+
+/* Delete */
+"Delete" = "Удалить";
+
+/* Delete automatically */
+"Delete automatically" = "Удалять автоматически";
+
+/* message for about alert */
+"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "Разработка: Hackulous team\n\nХотите узнать больше? Посетите\nhttp://hackulo.us/";
+
+/* Disabled title */
+"Disabled" = "Отключено";
+
+/* Done button title */
+"Done" = "Готово";
+
+/* Download title */
+"Download" = "Загрузка";
+
+/* displayed when download completed while in background mode */
+"Download completed: %@" = "Загрузка завершена: %@";
+
+/* Download failed: (1) download name */
+"Download failed: %@" = "Ошибка при загрузке: %@";
+
+/* Download later button title
+   Download later title */
+"Download later" = "В очередь";
+
+/* Download now */
+"Download now" = "Загрузить сейчас";
+
+/* Downloaded title */
+"Downloaded" = "Загружено";
+
+/* actionsheet title */
+"Downloaded IPA selected" = "Выбран загруженный IPA";
+
+/* Downloads, title */
+"Downloads" = "Загрузки";
+
+/* Enabled title */
+"Enabled" = "Включено";
+
+/* Error */
+"Error" = "Ошибка";
+
+/* Error building SBCache */
+"Error building SBCache" = "Ошибка при создании кэша SB";
+
+/* Error Pushing IPA title */
+"Error Pushing IPA" = "IPA: ошибка операции Push";
+
+/* No comment provided by engineer. */
+"Error while searching for Updates" = "Ошибка поиска обновлений";
+
+/* displayed when a download failed */
+"Failed to download %@" = "Ошибка при загрузке %@";
+
+/* displayed when trying download a file which is already there
+   File already exists error */
+"File already exists" = "Файл уже существует";
+
+/* Home title */
+"Home" = "Главная";
+
+/* Install */
+"Install" = "Установка";
+
+/* Install all */
+"Install all" = "Установить все";
+
+/* Install automatically */
+"Install automatically" = "Устанавливать автоматически";
+
+/* displayed when an application got installed while installous ran in background mode */
+"Installation completed: %@" = "Установка завершена: %@";
+
+/* displayed when an installation failed */
+"Installation failed: %@" = "Ошибка установки: %@";
+
+/* displayed when an application got installed */
+"Installed" = "Установлено";
+
+/* Installing... title */
+"Installing..." = "Установка ...";
+
+/* iTunes Sync */
+"iTunes Sync" = "Синхронизация с iTunes";
+
+/* Latest Version title */
+"Latest Version" = "Последняя версия";
+
+/* Launch App Store */
+"Launch App Store" = "Запустить App Store";
+
+/* message when link got reported */
+"Link successfully reported" = "Сообщение о ссылке отправлено";
+
+/* Loading title */
+"Loading" = "Загрузка";
+
+/* Local Notifications */
+"Local Notifications" = "Локальные уведомления";
+
+/* LocalSharing
+   LocalSharing title */
+"LocalSharing" = "Совместное использование";
+
+/* localsharing error */
+"LocalSharing must be enabled to send IPAs!" = "Совместное использование должно быть включено для отправки IPA!";
+
+/* localsharing error
+   LocalSharing error */
+"LocalSharing requires at least iOS 4.0!" = "Совместное использование требует наличия как минимум iOS 4.0!";
+
+/* MobileHunt */
+"MobileHunt" = "MobileHunt";
+
+/* error while rebuilding sbcache */
+"No DSID found" = "Не найден DSID";
+
+/* No comment provided by engineer. */
+"No Updates available" = "Нет доступных обновлений";
+
+/* OK */
+"OK" = "OK";
+
+/* Only show iPad Apps */
+"Only show iPad Apps" = "Показывать только приложения для iPad";
+
+/* report reasons */
+"Other" = "Другая";
+
+/* Password */
+"Password" = "Пароль";
+
+/* hint to solve reporting fail */
+"Please enter a valid apptrackr account in Settings" = "Пожалуйста, войдите с действующим аккаунтом apptrackr в Настройках";
+
+/* No comment provided by engineer. */
+"Popularity" = "Популярность";
+
+/* Price title */
+"Price" = "Цена";
+
+/* Queued */
+"Queued" = "В очереди";
+
+/* Receiving */
+"Receiving" = "Получение";
+
+/* Release Date title */
+"Release Date" = "Дата выхода";
+
+/* Reload Categories */
+"Reload Categories" = "Перезагрузить категории";
+
+/* Remove Metadata */
+"Remove Metadata" = "Удалить метаданные";
+
+/* Report button title */
+"Report" = "Сообщить";
+
+/* title for small notification */
+"Reported" = "Сообщено";
+
+/* Requesting Categories title */
+"Requesting Categories" = "Запрос категорий";
+
+/* title for MH requesting permission from a user */
+"Requesting Permission" = "Требуется разрешение";
+
+/* Requirements title */
+"Requirements:" = "Требования:";
+
+/* title while MH scans installed applications */
+"Scanning Applications ..." = "Сканирование приложений ...";
+
+/* Searching ... title */
+"Searching ..." = "Поиск ...";
+
+/* No comment provided by engineer. */
+"Searching for Updates" = "Поиск обновлений";
+
+/* alertview title */
+"Select Device" = "Выберите устройство";
+
+/* Send IPA */
+"Send IPA" = "Отправить IPA";
+
+/* Settings title */
+"Settings" = "Настройки";
+
+/* Size title */
+"Size" = "Размер";
+
+/* Started download */
+"Started" = "Загрузка началась";
+
+/* error while rebuilding sbcache */
+"stat() failed" = "Ошибка stat()";
+
+/* report reason */
+"The filehost is very slow." = "Файловое хранилище крайне медленное.";
+
+/* report reason */
+"The link is dead." = "Ссылка недействительна.";
+
+/* error while rebuilding sbcache */
+"Unable to load sandboxes" = "Невозможно загрузить песочницы";
+
+/* error while rebuilding sbcache */
+"Unable to own cache" = "Невозможно установить права на кэш";
+
+/* error while rebuilding sbcache */
+"Unable to save cache" = "Невозможно сохранить кэш";
+
+/* title if reporting link fails */
+"Unable to submit Report" = "Невозможно отправить сообщение";
+
+/* Unexpected content error */
+"Unexpected content" = "Неожиданное содержимое";
+
+/* Updates title */
+"Updates" = "Обновления";
+
+/* displayed when an MH upload failes */
+"Upload failed" = "Ошибка при закачке";
+
+/* displayed when an application was uploaded over webserver */
+"Uploaded" = "Закачано";
+
+/* displayed while MH uploads some files */
+"Uploading Files " = "Закачка файлов ";
+
+/* error while rebuilding sbcache */
+"User key doesn't exist" = "Пользовательский ключ не существует";
+
+/* Username */
+"Username" = "Имя пользователя";
+
+/* The latest version of an application
+   Version
+   Version: (1) */
+"Version: %@" = "Версия: %@";
+
+/* Displayed on bottom of search and category to load 15 more apps */
+"View 15 more Apps" = "Просмотреть еще 15 приложений";
+
+/* View in Safari button for extern URLs */
+"View in Safari" = "Просмотреть в Safari";
+
+/* View this application on the App Store */
+"View this application on the App Store" = "Просмотреть приложение в App Store";
+
+/* message while reqesting permission from a user for transfering MH application */
+"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "У нас нет приложения '%@', но у Вас оно есть! Пожалуйста, поделитесь с нами некоторыми файлами (безопасно, в фоновом режиме), дабы мы могли предложить их остальным!";
+
+/* What's new in Version (1) title */
+"What's new in Version %@:" = "Новое в версии %@:";
+
+/* report link title */
+"Why do you want to report this link?" = "Почему вы хотите сообщить об этой ссылке?";
+
+/* report reason */
+"Wrong Version" = "Неверная версия";
+
 /* stop a torrent */
 "Stop" = "Остановить";
 

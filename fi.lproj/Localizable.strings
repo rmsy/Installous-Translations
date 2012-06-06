@@ -1,3 +1,347 @@
+/* No comment provided by engineer. */
+"%d Updates available" = "%d Päivityksiä saatavilla";
+
+/* indicates, which current page (1) is displayed and how many other pages (2) are available */
+"(Page %i of %i)" = "(Sivu %1$i / %2$i)";
+
+/* No comment provided by engineer. */
+"1 Update available" = "1 päivitys saatavilla";
+
+/* About title */
+"About" = "Tietoa";
+
+"Search" = "Etsi";
+
+/* displayed while MH analyses application (1) */
+"Analyzing %@ ..." = "Analysoi %@ ...";
+
+/* Announcement title */
+"Announcement" = "Ilmoitus";
+
+/* API Error title */
+"API Error" = "Virhe";
+
+/* Application Description title */
+"Application Description:" = "Ohjelman kuvaus:";
+
+/* report reason */
+"Application doesn't launch." = "Ohjelma ei käynnisty.";
+
+/* Application will not install. */
+"Application will not install." = "Ohjelma ei asennu.";
+
+/* No comment provided by engineer. */
+"Apps" = "Ohjelmat";
+
+/* No comment provided by engineer. */
+"Apps & Updates" = "Ohj. & Päivit.";
+
+/* apptrackr Password  */
+"apptrackr Password " = "apptrackr Salasana ";
+
+/* apptrackr Username  */
+"apptrackr Username " = "Käyttäjätunnus ";
+
+/* indicates the title of the category which is currently caching */
+"Caching %@" = "Päivitetään %@";
+
+/* Caching All Applications */
+"Caching All Applications" = "Päivitetään All Applications";
+
+/* Cancel */
+"Cancel" = "Peruuta";
+
+/* Categories title */
+"Categories" = "Kategoriat";
+
+/* Company title */
+"Company" = "Yritys";
+
+/* displayed when a download completed */
+"Completed" = "Valmis";
+
+/* Connecting... title */
+"Connecting..." = "Yhdistetään ...";
+
+/* displayed while MH transfers data */
+"Contacting MobileHunt ..." = "Otetaan yhteyttä MobileHuntiin ...";
+
+/* cracker */
+"Cracked by %@" = "Murtanut %@";
+
+/* Cracked by Unknown */
+"Cracked by Unknown" = "Tuntematon murtaja";
+
+/* current version (1) and the new version (2) which causes the update */
+"Current: %@ (New: %@)" = "Nykyinen: %1$@ (Uusi: %2$@)";
+
+/* Delete */
+"Delete" = "Poista";
+
+/* Delete automatically */
+"Delete automatically" = "Poista automaattisesti";
+
+/* message for about alert */
+"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "Hackulous tiimin kehittämä\n\nLisätietoja\nhttp://hackulo.us/";
+
+/* Disabled title */
+"Disabled" = "Poissa käytöstä";
+
+/* Done button title */
+"Done" = "Valmis";
+
+/* Download title */
+"Download" = "Lataa";
+
+/* displayed when download completed while in background mode */
+"Download completed: %@" = "Lataus valmis: %@";
+
+/* Download failed: (1) download name */
+"Download failed: %@" = "Lataus epäonnistunut: %@";
+
+/* Download later button title
+   Download later title */
+"Download later" = "Lataa myöhemmin";
+
+/* Download now */
+"Download now" = "Lataa nyt";
+
+/* Downloaded title */
+"Downloaded" = "Ladattu";
+
+/* actionsheet title */
+"Downloaded IPA selected" = "IPA valittu";
+
+/* Downloads, title */
+"Downloads" = "Lataukset";
+
+/* Enabled title */
+"Enabled" = "Käytössä";
+
+/* Error */
+"Error" = "Virhe";
+
+/* Error building SBCache */
+"Error building SBCache" = "Error building SBCache";
+
+/* Error Pushing IPA title */
+"Error Pushing IPA" = "Error Pushing IPA";
+
+/* No comment provided by engineer. */
+"Error while searching for Updates" = "Virhe päivityksiä etsittäessä";
+
+/* displayed when a download failed */
+"Failed to download %@" = "%@ lataus epäonnistui";
+
+/* displayed when trying download a file which is already there
+   File already exists error */
+"File already exists" = "Tiedosto on jo olemassa";
+
+/* Home title */
+"Home" = "Koti";
+
+/* Install */
+"Install" = "Asenna";
+
+/* Install all */
+"Install all" = "Asenna kaikki";
+
+/* Install automatically */
+"Install automatically" = "Asenna automaattisesti";
+
+/* displayed when an application got installed while installous ran in background mode */
+"Installation completed: %@" = "Asennus valmis: %@";
+
+/* displayed when an installation failed */
+"Installation failed: %@" = "Asennus epäonnistui: %@";
+
+/* displayed when an application got installed */
+"Installed" = "Asennettu";
+
+/* Installing... title */
+"Installing..." = "Asennetaan ...";
+
+/* iTunes Sync */
+"iTunes Sync" = "iTunes Sync";
+
+/* Latest Version title */
+"Latest Version" = "Viimeisin versio";
+
+/* Launch App Store */
+"Launch App Store" = "Käynnistä App Store";
+
+/* message when link got reported */
+"Link successfully reported" = "Linkki onnistuneesti raportoitu";
+
+/* Loading title */
+"Loading" = "Ladataan";
+
+/* Local Notifications */
+"Local Notifications" = "Local Notifications";
+
+/* LocalSharing
+   LocalSharing title */
+"LocalSharing" = "LocalSharing";
+
+/* localsharing error */
+"LocalSharing must be enabled to send IPAs!" = "LocalSharing täytyy olla käytössä IPA:n lähettämiseksi!";
+
+/* localsharing error
+   LocalSharing error */
+"LocalSharing requires at least iOS 4.0!" = "LocalSharing vaatii vähintään käyttöjärjestelmäversiota iOS 4.0!";
+
+/* MobileHunt */
+"MobileHunt" = "MobileHunt";
+
+/* error while rebuilding sbcache */
+"No DSID found" = "No DSID found";
+
+/* No comment provided by engineer. */
+"No Updates available" = "Päivityksiä ei saatavilla";
+
+/* OK */
+"OK" = "OK";
+
+/* Only show iPad Apps */
+"Only show iPad Apps" = "Näytä vain iPad ohjelmat";
+
+/* report reasons */
+"Other" = "Muu";
+
+/* Password */
+"Password" = "Salasana";
+
+/* hint to solve reporting fail */
+"Please enter a valid apptrackr account in Settings" = "Ole hyvä ja syötä voimassa oleva apptrackr käyttäjätunnus asetuksissa";
+
+/* No comment provided by engineer. */
+"Popularity" = "Suosio";
+
+/* Price title */
+"Price" = "Hinta";
+
+/* Queued */
+"Queued" = "Jonossa";
+
+/* Receiving */
+"Receiving" = "Vastaanottaa";
+
+/* Release Date title */
+"Release Date" = "Julkaisupäivä";
+
+/* Reload Categories */
+"Reload Categories" = "Päivitä kategoriat";
+
+/* Remove Metadata */
+"Remove Metadata" = "Poista metadata";
+
+/* Report button title */
+"Report" = "Ilmianna";
+
+/* title for small notification */
+"Reported" = "Raportoitu";
+
+/* Requesting Categories title */
+"Requesting Categories" = "Ladataan kategorioita";
+
+/* title for MH requesting permission from a user */
+"Requesting Permission" = "Pyydetään käyttöoikeuksia";
+
+/* Requirements title */
+"Requirements:" = "Vaatimukset:";
+
+/* title while MH scans installed applications */
+"Scanning Applications ..." = "Tarkistetaan asennettuja ohjelmia ...";
+
+/* Searching ... title */
+"Searching ..." = "Etsii ...";
+
+/* No comment provided by engineer. */
+"Searching for Updates" = "Etsitään päivityksiä";
+
+/* alertview title */
+"Select Device" = "Valitse laite";
+
+/* Send IPA */
+"Send IPA" = "Lähetä IPA";
+
+/* Settings title */
+"Settings" = "Asetukset";
+
+/* Size title */
+"Size" = "Koko";
+
+/* Started download */
+"Started" = "Aloitettu";
+
+/* error while rebuilding sbcache */
+"stat() failed" = "stat() failed";
+
+/* report reason */
+"The filehost is very slow." = "Tiedostonjakopalvelu on erittäin hidas.";
+
+/* report reason */
+"The link is dead." = "Kuollut linkki.";
+
+/* error while rebuilding sbcache */
+"Unable to load sandboxes" = "Unable to load sandboxes";
+
+/* error while rebuilding sbcache */
+"Unable to own cache" = "Unable to own cache";
+
+/* error while rebuilding sbcache */
+"Unable to save cache" = "Unable to save cache";
+
+/* title if reporting link fails */
+"Unable to submit Report" = "Raportointi epäonnistunut";
+
+/* Unexpected content error */
+"Unexpected content" = "Odottamaton sisältö";
+
+/* Updates title */
+"Updates" = "Päivitykset";
+
+/* displayed when an MH upload failes */
+"Upload failed" = "Lähetys epäonnistunut";
+
+/* displayed when an application was uploaded over webserver */
+"Uploaded" = "Lähetetty";
+
+/* displayed while MH uploads some files */
+"Uploading Files " = "Lähetetään tiedostoja ";
+
+/* error while rebuilding sbcache */
+"User key doesn't exist" = "User key doesn't exist";
+
+/* Username */
+"Username" = "Käyttäjätunnus";
+
+/* The latest version of an application
+   Version
+   Version: (1) */
+"Version: %@" = "Versio: %@";
+
+/* Displayed on bottom of search and category to load 15 more apps */
+"View 15 more Apps" = "Näytä 15 muuta ohjelmaa";
+
+/* View in Safari button for extern URLs */
+"View in Safari" = "Näytä Safarissa";
+
+/* View this application on the App Store */
+"View this application on the App Store" = "Näytä tämä ohjelma App Storessa";
+
+/* message while reqesting permission from a user for transfering MH application */
+"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "Meillä ei ole ohjelmaa '%@' mutta sinulla on! Haluasitko osallistua ja jakaa muutamia tiedostoja, jotta voimme tarjota niitä myös muille?";
+
+/* What's new in Version (1) title */
+"What's new in Version %@:" = "Uutta versiossa %@:";
+
+/* report link title */
+"Why do you want to report this link?" = "Miksi haluat raportoida tämän linkin?";
+
+/* report reason */
+"Wrong Version" = "Väärä versio";
+
 /* stop a torrent */
 "Stop" = "Pysäytä";
 

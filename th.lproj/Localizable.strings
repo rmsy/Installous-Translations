@@ -1,3 +1,347 @@
+/* No comment provided by engineer. */
+"%d Updates available" = "%d มีอัพเดทใหม่";
+
+/* indicates, which current page (1) is displayed and how many other pages (2) are available */
+"(Page %i of %i)" = "(หน้า %1$i จาก %2$i)";
+
+/* No comment provided by engineer. */
+"1 Update available" = "มี 1 อัพเดทใหม่";
+
+/* About title */
+"About" = "เกี่ยวกับ";
+
+"Search" = "ค้นหา";
+
+/* displayed while MH analyses application (1) */
+"Analyzing %@ ..." = "กำลังวิเคราะห์ %@ ...";
+
+/* Announcement title */
+"Announcement" = "ประกาศ";
+
+/* API Error title */
+"API Error" = "มีข้อผิดพลาดใน API";
+
+/* Application Description title */
+"Application Description:" = "คำอธิบายแอปพลิเคชั่น:";
+
+/* report reason */
+"Application doesn't launch." = "แอปพลิเคชั่นไม่สามารถเปิดได้";
+
+/* Application will not install. */
+"Application will not install." = "แอปพลิเคชั่นไม่ยอมติดตั้ง";
+
+/* No comment provided by engineer. */
+"Apps" = "แอปฯ";
+
+/* No comment provided by engineer. */
+"Apps & Updates" = "แอปฯต่างๆ & อัพเดท";
+
+/* apptrackr Password  */
+"apptrackr Password " = "รหัสผ่าน apptrackr ";
+
+/* apptrackr Username  */
+"apptrackr Username " = "ชื่อผู้ใช้ apptrackr ";
+
+/* indicates the title of the category which is currently caching */
+"Caching %@" = "การจัดเก็บชั่วคราว %@";
+
+/* Caching All Applications */
+"Caching All Applications" = "จัดเก็บข้อมูลชั่วคราวของแอปพลิเคชั่นทั้งหมด";
+
+/* Cancel */
+"Cancel" = "ยกเลิก";
+
+/* Categories title */
+"Categories" = "หมวดหมู่";
+
+/* Company title */
+"Company" = "บริษัท";
+
+/* displayed when a download completed */
+"Completed" = "เสร็จสิ้น";
+
+/* Connecting... title */
+"Connecting..." = "กำลังเชื่อมต่อ...";
+
+/* displayed while MH transfers data */
+"Contacting MobileHunt ..." = "กำลังติดต่อ MobileHunt ...";
+
+/* cracker */
+"Cracked by %@" = "แคร็กโดย %@";
+
+/* Cracked by Unknown */
+"Cracked by Unknown" = "ไม่ทราบผู้แคร็ก";
+
+/* current version (1) and the new version (2) which causes the update */
+"Current: %@ (New: %@)" = "ปัจจุบัน: %1$@ (ใหม่: %2$@)";
+
+/* Delete */
+"Delete" = "ลบ";
+
+/* Delete automatically */
+"Delete automatically" = "ลบโดยอัตโนมัติ";
+
+/* message for about alert */
+"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "พัฒนาโดยทีมงาน Hackulous\n\nสำหรับข้อมูลเพิ่มเติม, เข้าชม\nhttp://hackulo.us/";
+
+/* Disabled title */
+"Disabled" = "ถูกยกเลิก";
+
+/* Done button title */
+"Done" = "เสร็จสิ้น";
+
+/* Download title */
+"Download" = "ดาวน์โหลด";
+
+/* displayed when download completed while in background mode */
+"Download completed: %@" = "ดาวน์โหลดเสร็จไป: %@";
+
+/* Download failed: (1) download name */
+"Download failed: %@" = "ดาวน์โหลดล้มเหลว: %@";
+
+/* Download later button title
+   Download later title */
+"Download later" = "ดาวน์โหลดทีหลัง";
+
+/* Download now */
+"Download now" = "ดาวน์โหลดเดี๋ยวนี้";
+
+/* Downloaded title */
+"Downloaded" = "ดาวน์โหลดเสร็จสิ้น";
+
+/* actionsheet title */
+"Downloaded IPA selected" = "ดาวน์โหลด IPA นี้";
+
+/* Downloads, title */
+"Downloads" = "ดาวน์โหลด";
+
+/* Enabled title */
+"Enabled" = "ได้เริ่มใช้";
+
+/* Error */
+"Error" = "เกิดข้อผิดพลาด";
+
+/* Error building SBCache */
+"Error building SBCache" = "เกิดข้อผิดพลาดในการสร้าง SBCache";
+
+/* Error Pushing IPA title */
+"Error Pushing IPA" = "เกิดข้อผิดพลาดในการ Pushing IPA";
+
+/* No comment provided by engineer. */
+"Error while searching for Updates" = "เกิดข้อผิดพลาดระหว่างทำการค้นหาอัพเดท";
+
+/* displayed when a download failed */
+"Failed to download %@" = "การดาวน์โหลดล้มเหลว %@";
+
+/* displayed when trying download a file which is already there
+   File already exists error */
+"File already exists" = "มีไฟล์นี้อยู่แล้ว";
+
+/* Home title */
+"Home" = "หน้าหลัก";
+
+/* Install */
+"Install" = "ติดตั้ง";
+
+/* Install all */
+"Install all" = "ติดตั้งทั้งหมด";
+
+/* Install automatically */
+"Install automatically" = "ติดตั้งโดยอัตโนมัติ";
+
+/* displayed when an application got installed while installous ran in background mode */
+"Installation completed: %@" = "ติดตั้งเสร็จ: %@";
+
+/* displayed when an installation failed */
+"Installation failed: %@" = "ติดตั้งล้มเหลว: %@";
+
+/* displayed when an application got installed */
+"Installed" = "ติดตั้งสำเร็จ";
+
+/* Installing... title */
+"Installing..." = "กำลังติดตั้ง...";
+
+/* iTunes Sync */
+"iTunes Sync" = "ซิ้งค์กับ iTunes";
+
+/* Latest Version title */
+"Latest Version" = "เวอร์ชั่นล่าสุด";
+
+/* Launch App Store */
+"Launch App Store" = "เปิด App Store";
+
+/* message when link got reported */
+"Link successfully reported" = "รายงานลิ้งค์นี้เรียบร้อยแล้ว";
+
+/* Loading title */
+"Loading" = "กำลังโหลด";
+
+/* Local Notifications */
+"Local Notifications" = "ประกาศภายใน";
+
+/* LocalSharing
+   LocalSharing title */
+"LocalSharing" = "LocalSharing";
+
+/* localsharing error */
+"LocalSharing must be enabled to send IPAs!" = "ต้องเปิดใช้การ LocalSharing เพื่อส่ง IPA!";
+
+/* localsharing error
+   LocalSharing error */
+"LocalSharing requires at least iOS 4.0!" = "LocalSharing ใช้ได้กับ iOS เวอร์ชั่น 4.0 ขึ้นไปเท่านั้น!";
+
+/* MobileHunt */
+"MobileHunt" = "MobileHunt";
+
+/* error while rebuilding sbcache */
+"No DSID found" = "ไม่พบ DSID";
+
+/* No comment provided by engineer. */
+"No Updates available" = "ไม่มีอัพเดทใหม่";
+
+/* OK */
+"OK" = "ตกลง";
+
+/* Only show iPad Apps */
+"Only show iPad Apps" = "เปิดดูเฉพาะแอปพลิเคชั่นของ iPad";
+
+/* report reasons */
+"Other" = "อื่นๆ";
+
+/* Password */
+"Password" = "รหัสผ่าน";
+
+/* hint to solve reporting fail */
+"Please enter a valid apptrackr account in Settings" = "กรุณาป้อนข้อมูลเกี่ยวกับบัญชี apptrackr ให้ถูกต้องใน "การตั้งค่า"";
+
+/* No comment provided by engineer. */
+"Popularity" = "ความนิยม";
+
+/* Price title */
+"Price" = "ราคา";
+
+/* Queued */
+"Queued" = "กำลังรอ";
+
+/* Receiving */
+"Receiving" = "กำลังรับ";
+
+/* Release Date title */
+"Release Date" = "วันที่ออก";
+
+/* Reload Categories */
+"Reload Categories" = "โหลดหน้าหมวดหมู่ใหม่";
+
+/* Remove Metadata */
+"Remove Metadata" = "ลบ Metadata (ข้อมูลโครงสร้าง)";
+
+/* Report button title */
+"Report" = "รายงาน";
+
+/* title for small notification */
+"Reported" = "รายงานเรียบร้อย";
+
+/* Requesting Categories title */
+"Requesting Categories" = "กำลังร้องขอ หมวดหมู่";
+
+/* title for MH requesting permission from a user */
+"Requesting Permission" = "กำลังร้องขอ การอนุญาต";
+
+/* Requirements title */
+"Requirements:" = "ความต้องการ:";
+
+/* title while MH scans installed applications */
+"Scanning Applications ..." = "กำลังแสกนแอปพลิเคชั่น ...";
+
+/* Searching ... title */
+"Searching ..." = "กำลังค้นหา ...";
+
+/* No comment provided by engineer. */
+"Searching for Updates" = "กำลังค้นหาอัพเดทมาใหม่";
+
+/* alertview title */
+"Select Device" = "โปรดเลือกอุปกรณ์ของคุณ";
+
+/* Send IPA */
+"Send IPA" = "ส่ง IPA";
+
+/* Settings title */
+"Settings" = "การตั้งค่า";
+
+/* Size title */
+"Size" = "ขนาด";
+
+/* Started download */
+"Started" = "เริ่มดาวน์โหลดแล้ว";
+
+/* error while rebuilding sbcache */
+"stat() failed" = "stat() ล้มเหลว";
+
+/* report reason */
+"The filehost is very slow." = "โฮสท์ไฟล์นี้ช้ามาก";
+
+/* report reason */
+"The link is dead." = "ลิ้งค์นี้ไม่สามารถใช้การได้";
+
+/* error while rebuilding sbcache */
+"Unable to load sandboxes" = "ไม่สามารถโหลดเข้า sandboxes";
+
+/* error while rebuilding sbcache */
+"Unable to own cache" = "ไม่สามารถสร้าง Cache ได้";
+
+/* error while rebuilding sbcache */
+"Unable to save cache" = "ไม่สามารถบันทึก Cache ได้";
+
+/* title if reporting link fails */
+"Unable to submit Report" = "ไม่สามารถรายงานได้";
+
+/* Unexpected content error */
+"Unexpected content" = "เนื้อหาไม่คาดคิด";
+
+/* Updates title */
+"Updates" = "อัพเดท";
+
+/* displayed when an MH upload failes */
+"Upload failed" = "อัพโหลดล้มเหลว";
+
+/* displayed when an application was uploaded over webserver */
+"Uploaded" = "อัพโหลดเรียบร้อย";
+
+/* displayed while MH uploads some files */
+"Uploading Files " = "กำลังอัพโหลดไฟล์ ";
+
+/* error while rebuilding sbcache */
+"User key doesn't exist" = "ไม่มี User key นี้";
+
+/* Username */
+"Username" = "ชื่อผู้ใช้";
+
+/* The latest version of an application
+   Version
+   Version: (1) */
+"Version: %@" = "เวอร์ชั่น: %@";
+
+/* Displayed on bottom of search and category to load 15 more apps */
+"View 15 more Apps" = "ดูอีก 15 แอปฯ";
+
+/* View in Safari button for extern URLs */
+"View in Safari" = "เปิดดูใน Safari";
+
+/* View this application on the App Store */
+"View this application on the App Store" = "เปิดดูแอปพลิเคชั่นนี้ใน App Store";
+
+/* message while reqesting permission from a user for transfering MH application */
+"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "เราไม่มีแอปพลิเคชั่นนี้ '%@' แต่ถ้าหากคุณมี! เราขอรบกวนให้คุณแบ่งปันไฟล์เหล่านี้ (ผ่านช่องทางปลอดภัยในหน้าที่ซ่อนไว้) เพื่อที่เราจะได้นำไปแจกจ่ายให้กับผู้ใช้อื่นๆ";
+
+/* What's new in Version (1) title */
+"What's new in Version %@:" = "สิ่งใหม่ๆในเวอร์ชั่นนี้ %@:";
+
+/* report link title */
+"Why do you want to report this link?" = "ทำไมคุณถึงต้องการรายงานลิ้งค์นี้?";
+
+/* report reason */
+"Wrong Version" = "ผิดเวอร์ชั่น";
+
 /* stop a torrent */
 "Stop" = "หยุด";
 

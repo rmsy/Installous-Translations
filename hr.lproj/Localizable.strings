@@ -1,3 +1,347 @@
+/* No comment provided by engineer. */
+"%d Updates available" = "%d dostupna Ažuriranja";
+
+/* indicates, which current page (1) is displayed and how many other pages (2) are available */
+"(Page %i of %i)" = "(Stranica %1$i od %2$i)";
+
+/* No comment provided by engineer. */
+"1 Update available" = "1 Ažuriranje dostupno";
+
+/* About title */
+"About" = "Info";
+
+"Search" = "Traži";
+
+/* displayed while MH analyses application (1) */
+"Analyzing %@ ..." = "Analiziranje %@ ...";
+
+/* Announcement title */
+"Announcement" = "Objava";
+
+/* API Error title */
+"API Error" = "API Greška";
+
+/* Application Description title */
+"Application Description:" = "Opis Aplikacije:";
+
+/* report reason */
+"Application doesn't launch." = "Aplikacija se ne pokreće.";
+
+/* Application will not install. */
+"Application will not install." = "Aplikacija se ne može instalirati.";
+
+/* No comment provided by engineer. */
+"Apps" = "Aplikacije";
+
+/* No comment provided by engineer. */
+"Apps & Updates" = "Applikacije & Ažuriranja";
+
+/* apptrackr Password  */
+"apptrackr Password " = "apptrackr lozinka ";
+
+/* apptrackr Username  */
+"apptrackr Username " = "apptrackr korisničko ime ";
+
+/* indicates the title of the category which is currently caching */
+"Caching %@" = "Učitavanje %@";
+
+/* Caching All Applications */
+"Caching All Applications" = "Učitavanje svih Aplikacija";
+
+/* Cancel */
+"Cancel" = "Odustani";
+
+/* Categories title */
+"Categories" = "Kategorije";
+
+/* Company title */
+"Company" = "Tvrtka";
+
+/* displayed when a download completed */
+"Completed" = "Završeno";
+
+/* Connecting... title */
+"Connecting..." = "Spajanje ...";
+
+/* displayed while MH transfers data */
+"Contacting MobileHunt ..." = "Spajanje na MobileHunt ...";
+
+/* cracker */
+"Cracked by %@" = "Crack-ao %@";
+
+/* Cracked by Unknown */
+"Cracked by Unknown" = "Nepoznati Crack-er";
+
+/* current version (1) and the new version (2) which causes the update */
+"Current: %@ (New: %@)" = "Trenutna: %1$@ (Nova: %2$@)";
+
+/* Delete */
+"Delete" = "Briši";
+
+/* Delete automatically */
+"Delete automatically" = "Obriši Automatski";
+
+/* message for about alert */
+"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "Programirao Hackulous team\n\nZa više informacija, posjetite\nhttp://hackulo.us/";
+
+/* Disabled title */
+"Disabled" = "Deaktivirano";
+
+/* Done button title */
+"Done" = "Gotovo";
+
+/* Download title */
+"Download" = "Preuzmi";
+
+/* displayed when download completed while in background mode */
+"Download completed: %@" = "Preuzimanje gotovo: %@";
+
+/* Download failed: (1) download name */
+"Download failed: %@" = "Preuzimanje neuspješno: %@";
+
+/* Download later button title
+   Download later title */
+"Download later" = "Preuzmi kasnije";
+
+/* Download now */
+"Download now" = "Preuzmi sada";
+
+/* Downloaded title */
+"Downloaded" = "Preuzeto";
+
+/* actionsheet title */
+"Downloaded IPA selected" = "Odabrana IPA datoteka";
+
+/* Downloads, title */
+"Downloads" = "Preuzimanja";
+
+/* Enabled title */
+"Enabled" = "Aktivirano";
+
+/* Error */
+"Error" = "Greška";
+
+/* Error building SBCache */
+"Error building SBCache" = "Greška tokom izrade SBCache datoteke";
+
+/* Error Pushing IPA title */
+"Error Pushing IPA" = "Greška tokom slanja IPA datoteke";
+
+/* No comment provided by engineer. */
+"Error while searching for Updates" = "Greška tokom traženja novih Ažuriranja";
+
+/* displayed when a download failed */
+"Failed to download %@" = "Greška kod preuzimanja %@";
+
+/* displayed when trying download a file which is already there
+   File already exists error */
+"File already exists" = "Datoteka već postoji ";
+
+/* Home title */
+"Home" = "Naslovna";
+
+/* Install */
+"Install" = "Instaliraj";
+
+/* Install all */
+"Install all" = "Instaliraj sve";
+
+/* Install automatically */
+"Install automatically" = "Instaliraj Automatski";
+
+/* displayed when an application got installed while installous ran in background mode */
+"Installation completed: %@" = "Instalacija završena: %@";
+
+/* displayed when an installation failed */
+"Installation failed: %@" = "Instalacija neuspješna: %@";
+
+/* displayed when an application got installed */
+"Installed" = "Instalirano";
+
+/* Installing... title */
+"Installing..." = "Instaliram ...";
+
+/* iTunes Sync */
+"iTunes Sync" = "iTunes Sinkronizacija";
+
+/* Latest Version title */
+"Latest Version" = "Aktualna verzija";
+
+/* Launch App Store */
+"Launch App Store" = "Pokreni App Store";
+
+/* message when link got reported */
+"Link successfully reported" = "Link uspješno prijavljen";
+
+/* Loading title */
+"Loading" = "Učitavanje";
+
+/* Local Notifications */
+"Local Notifications" = "Lokalne Obavijesti";
+
+/* LocalSharing
+   LocalSharing title */
+"LocalSharing" = "Lokalno Dijeljenje";
+
+/* localsharing error */
+"LocalSharing must be enabled to send IPAs!" = "Lokalno Dijeljenje mora biti uključeno za slanje IPA datoteka!";
+
+/* localsharing error
+   LocalSharing error */
+"LocalSharing requires at least iOS 4.0!" = "Lokalno Dijeljenje zahtijeva minimalno iOS 4.0!";
+
+/* MobileHunt */
+"MobileHunt" = "MobileHunt";
+
+/* error while rebuilding sbcache */
+"No DSID found" = "DSID nije pronađen";
+
+/* No comment provided by engineer. */
+"No Updates available" = "Nema dostupnih ažuriranja";
+
+/* OK */
+"OK" = "OK";
+
+/* Only show iPad Apps */
+"Only show iPad Apps" = "Pokaži samo iPad Aplikacije";
+
+/* report reasons */
+"Other" = "Ostalo";
+
+/* Password */
+"Password" = "Lozinka";
+
+/* hint to solve reporting fail */
+"Please enter a valid apptrackr account in Settings" = "Molimo unesite valjane apptrackr korisničke podatke";
+
+/* No comment provided by engineer. */
+"Popularity" = "Popularnost";
+
+/* Price title */
+"Price" = "Cijena";
+
+/* Queued */
+"Queued" = "Na čekanju";
+
+/* Receiving */
+"Receiving" = "Primanje";
+
+/* Release Date title */
+"Release Date" = "Datum Izdavanja";
+
+/* Reload Categories */
+"Reload Categories" = "Osvježi Kategorije";
+
+/* Remove Metadata */
+"Remove Metadata" = "Izbriši Metadata";
+
+/* Report button title */
+"Report" = "Prijavi";
+
+/* title for small notification */
+"Reported" = "Prijavljeno";
+
+/* Requesting Categories title */
+"Requesting Categories" = "Zahtijevam Kategorije";
+
+/* title for MH requesting permission from a user */
+"Requesting Permission" = "Zahtijevam dopuštenje";
+
+/* Requirements title */
+"Requirements:" = "Zahtjevi:";
+
+/* title while MH scans installed applications */
+"Scanning Applications ..." = "Skeniram aplikacije ...";
+
+/* Searching ... title */
+"Searching ..." = "Traženje ...";
+
+/* No comment provided by engineer. */
+"Searching for Updates" = "Tražim Ažuriranja";
+
+/* alertview title */
+"Select Device" = "Odaberite uređaj";
+
+/* Send IPA */
+"Send IPA" = "Pošalji IPA";
+
+/* Settings title */
+"Settings" = "Postavke";
+
+/* Size title */
+"Size" = "Veličina";
+
+/* Started download */
+"Started" = "Pokrenuto";
+
+/* error while rebuilding sbcache */
+"stat() failed" = "stat() failed";
+
+/* report reason */
+"The filehost is very slow." = "Filehost je jako spor.";
+
+/* report reason */
+"The link is dead." = "Link je izbrisan.";
+
+/* error while rebuilding sbcache */
+"Unable to load sandboxes" = "Unable to load sandboxes";
+
+/* error while rebuilding sbcache */
+"Unable to own cache" = "Unable to own cache";
+
+/* error while rebuilding sbcache */
+"Unable to save cache" = "Unable to save cache";
+
+/* title if reporting link fails */
+"Unable to submit Report" = "Prijava nije poslana";
+
+/* Unexpected content error */
+"Unexpected content" = "Neočekivan sadržaj";
+
+/* Updates title */
+"Updates" = "Ažuriranja";
+
+/* displayed when an MH upload failes */
+"Upload failed" = "Slanje nije uspjelo";
+
+/* displayed when an application was uploaded over webserver */
+"Uploaded" = "Poslano";
+
+/* displayed while MH uploads some files */
+"Uploading Files " = "Šaljem datoteke ";
+
+/* error while rebuilding sbcache */
+"User key doesn't exist" = "User key doesn't exist";
+
+/* Username */
+"Username" = "Korisničko ime";
+
+/* The latest version of an application
+   Version
+   Version: (1) */
+"Verzija: %@" = "Verzija: %@";
+
+/* Displayed on bottom of search and category to load 15 more apps */
+"View 15 more Apps" = "Pokaži sljedećih 15 Aplikacija";
+
+/* View in Safari button for extern URLs */
+"View in Safari" = "Pogledaj u Web pretraživaču";
+
+/* View this application on the App Store */
+"View this application on the App Store" = "Pogledaj ovu aplikaciju u App Store-u";
+
+/* message while reqesting permission from a user for transfering MH application */
+"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "Nemamo aplikaciju '%@', koju Vi imate. Da li bi ste je željeli podijeliti sa nama (u pozadini, zaštićenim putem) tako da je možemo i mi ponuditi drugim korisnicima?";
+
+/* What's new in Version (1) title */
+"What's new in Version %@:" = "Novo u verziji %@:";
+
+/* report link title */
+"Why do you want to report this link?" = "Zašto želite prijaviti ovaj link?";
+
+/* report reason */
+"Wrong Version" = "Pogrešna verzija";
+
 /* stop a torrent */
 "Stop" = "Zaustavi";
 

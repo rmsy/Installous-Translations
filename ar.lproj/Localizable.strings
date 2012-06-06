@@ -1,3 +1,347 @@
+/* No comment provided by engineer. */
+"%d Updates available" = "%d تحديث متاح";
+
+/* indicates, which current page (1) is displayed and how many other pages (2) are available */
+"(Page %i of %i)" = "(صفحة رقم %1$i من %2$i)";
+
+/* No comment provided by engineer. */
+"1 Update available" = "تحديث واحد متاح";
+
+/* About title */
+"About" = "عنا";
+
+"Search" = "بحث";
+
+/* displayed while MH analyses application (1) */
+"Analyzing %@ ..." = "جاري التحليل %@ ...";
+
+/* Announcement title */
+"Announcement" = "اشعارات";
+
+/* API Error title */
+"API Error" = "خطأ في الـ API";
+
+/* Application Description title */
+"Application Description:" = "وصف التطبيق:";
+
+/* report reason */
+"Application doesn't launch." = "التطبيق لا يعمل.";
+
+/* Application will not install. */
+"Application will not install." = "لا يمكن تنصيب التطبيق.";
+
+/* No comment provided by engineer. */
+"Apps" = "تطبيقات";
+
+/* No comment provided by engineer. */
+"Apps & Updates" = "تطبيقات وتحديثات";
+
+/* apptrackr Password  */
+"apptrackr Password " = "كلمة السر للـ apptrackr ";
+
+/* apptrackr Username  */
+"apptrackr Username " = "اسم المستخدم apptrackr";
+
+/* indicates the title of the category which is currently caching */
+"Caching %@" = "تجميع %@";
+
+/* Caching All Applications */
+"Caching All Applications" = "تجميع كل التطبيقات";
+
+/* Cancel */
+"Cancel" = "إلغاء";
+
+/* Categories title */
+"Categories" = "التصنيفات";
+
+/* Company title */
+"Company" = "الشركة";
+
+/* displayed when a download completed */
+"Completed" = "تم التنزيل";
+
+/* Connecting... title */
+"Connecting..." = "يتم الاتصال ...";
+
+/* displayed while MH transfers data */
+"Contacting MobileHunt ..." = "الاتصال بـ MobileHunt ...";
+
+/* cracker */
+"Cracked by %@" = "كسر بواسطة %@";
+
+/* Cracked by Unknown */
+"Cracked by Unknown" = "كسر بواسطة غير معروف";
+
+/* current version (1) and the new version (2) which causes the update */
+"Current: %@ (New: %@)" = "الحالي: %1$@ (الجديد: %2$@)";
+
+/* Delete */
+"Delete" = "حذف";
+
+/* Delete automatically */
+"Delete automatically" = "حذف تلقائي";
+
+/* message for about alert */
+"Developed by the Hackulous team\n\nFor more information, visit\nhttp://hackulo.us/" = "تم تطويرة بواسطة فريق Hackulous\n\nلمزيد من المعلومات ارجو زيارة\nhttp://hackulo.us/";
+
+/* Disabled title */
+"Disabled" = "تعطيل";
+
+/* Done button title */
+"Done" = "تم";
+
+/* Download title */
+"Download" = "تنزيل";
+
+/* displayed when download completed while in background mode */
+"Download completed: %@" = "تم تنزيل : %@";
+
+/* Download failed: (1) download name */
+"Download failed: %@" = "فشل تنزيل : %@";
+
+/* Download later button title
+   Download later title */
+"Download later" = "تنزيل لاحقا";
+
+/* Download now */
+"Download now" = "تنزيل الان";
+
+/* Downloaded title */
+"Downloaded" = "تم تنزيل";
+
+/* actionsheet title */
+"Downloaded IPA selected" = "IPA محدد";
+
+/* Downloads, title */
+"Downloads" = "التنزيل";
+
+/* Enabled title */
+"Enabled" = "مفعل";
+
+/* Error */
+"Error" = "خطاء";
+
+/* Error building SBCache */
+"Error building SBCache" = "خطاء اثناء انشاء SBCache";
+
+/* Error Pushing IPA title */
+"Error Pushing IPA" = "خطاء في اوصيل IPA";
+
+/* No comment provided by engineer. */
+"Error while searching for Updates" = "خطاء اثناء البحث عن التحديثات";
+
+/* displayed when a download failed */
+"Failed to download %@" = "خطاء اثناء تنزيل %@";
+
+/* displayed when trying download a file which is already there
+   File already exists error */
+"File already exists" = "الملف موجود مسبقا";
+
+/* Home title */
+"Home" = "البداية";
+
+/* Install */
+"Install" = "تثبيت";
+
+/* Install all */
+"Install all" = "تثبيت الكل";
+
+/* Install automatically */
+"Install automatically" = "تثبيت تلقائي";
+
+/* displayed when an application got installed while installous ran in background mode */
+"Installation completed: %@" = "تم تثبيت : %@ بنجاح";
+
+/* displayed when an installation failed */
+"Installation failed: %@" = "فشل في تثبيت : %@";
+
+/* displayed when an application got installed */
+"Installed" = "تم التثبيت";
+
+/* Installing... title */
+"Installing..." = "جاري التثبيت ...";
+
+/* iTunes Sync */
+"iTunes Sync" = "المزامنة مع iTunes";
+
+/* Latest Version title */
+"Latest Version" = "اخر اصدار";
+
+/* Launch App Store */
+"Launch App Store" = "الانتقال الى الـ App Store";
+
+/* message when link got reported */
+"Link successfully reported" = "تم ارسال التقرير عن الوصلة بنجاح";
+
+/* Loading title */
+"Loading" = "جاري التحميل ..";
+
+/* Local Notifications */
+"Local Notifications" = "التنبيهات";
+
+/* LocalSharing
+   LocalSharing title */
+"LocalSharing" = "المشاركة المحلية";
+
+/* localsharing error */
+"LocalSharing must be enabled to send IPAs!" = "المشاركة المحلية يجب ان تكون مفعله لكي تستطيع ارسال الـ IPA!";
+
+/* localsharing error
+   LocalSharing error */
+"LocalSharing requires at least iOS 4.0!" = "المشاركة المحلية تتطلب على الاقل اصدار iOS 4.0!";
+
+/* MobileHunt */
+"MobileHunt" = "MobileHunt";
+
+/* error while rebuilding sbcache */
+"No DSID found" = "لم يتم ايجاد DSID";
+
+/* No comment provided by engineer. */
+"No Updates available" = "لا توجد تحديثات جديدة";
+
+/* OK */
+"OK" = "موافق";
+
+/* Only show iPad Apps */
+"Only show iPad Apps" = "فقط اظهر تطبيقات الـ iPad";
+
+/* report reasons */
+"Other" = "آخرى";
+
+/* Password */
+"Password" = "كلمة المرور";
+
+/* hint to solve reporting fail */
+"Please enter a valid apptrackr account in Settings" = "ارجو ادخال حساب apptrackr صحيح في الاعدادات";
+
+/* No comment provided by engineer. */
+"Popularity" = "الاكثر شعبية";
+
+/* Price title */
+"Price" = "الثمن";
+
+/* Queued */
+"Queued" = "في الانتظار";
+
+/* Receiving */
+"Receiving" = "استقبال";
+
+/* Release Date title */
+"Release Date" = "تاريخ النشر";
+
+/* Reload Categories */
+"Reload Categories" = "اعادة تحميل التصنيفات";
+
+/* Remove Metadata */
+"Remove Metadata" = "حذف الـ Metadata";
+
+/* Report button title */
+"Report" = "تبليغ";
+
+/* title for small notification */
+"Reported" = "تم التبليغ";
+
+/* Requesting Categories title */
+"Requesting Categories" = "طلب التصانيف";
+
+/* title for MH requesting permission from a user */
+"Requesting Permission" = "طلب التصريح";
+
+/* Requirements title */
+"Requirements:" = "المتطلبات:";
+
+/* title while MH scans installed applications */
+"Scanning Applications ..." = "البحث عن التطبيقات ...";
+
+/* Searching ... title */
+"Searching ..." = "يتم البحث ...";
+
+/* No comment provided by engineer. */
+"Searching for Updates" = "البحث عن تحديثات";
+
+/* alertview title */
+"Select Device" = "حدد الجهاز";
+
+/* Send IPA */
+"Send IPA" = "ارسال الـ IPA";
+
+/* Settings title */
+"Settings" = "اعدادات";
+
+/* Size title */
+"Size" = "الحجم";
+
+/* Started download */
+"Started" = "انطلقنا";
+
+/* error while rebuilding sbcache */
+"stat() failed" = "stat() فشل";
+
+/* report reason */
+"The filehost is very slow." = "موقع التنزيل بطئ جدا.";
+
+/* report reason */
+"The link is dead." = "الوصلة ميته.";
+
+/* error while rebuilding sbcache */
+"Unable to load sandboxes" = "فشل في تحميل sandboxes";
+
+/* error while rebuilding sbcache */
+"Unable to own cache" = "فشل في الحصول على cache";
+
+/* error while rebuilding sbcache */
+"Unable to save cache" = "فشل اثناء حفظ cache";
+
+/* title if reporting link fails */
+"Unable to submit Report" = "فشل في ارسال التبليغ";
+
+/* Unexpected content error */
+"Unexpected content" = "محتوى غير متوقع";
+
+/* Updates title */
+"Updates" = "التحديثات";
+
+/* displayed when an MH upload failes */
+"Upload failed" = "فضل في الرفع";
+
+/* displayed when an application was uploaded over webserver */
+"Uploaded" = "تم الرفع";
+
+/* displayed while MH uploads some files */
+"Uploading Files " = "رفع الملفات ";
+
+/* error while rebuilding sbcache */
+"User key doesn't exist" = "مفتاح المستخدم غير موجود";
+
+/* Username */
+"Username" = "اسم المستخدم";
+
+/* The latest version of an application
+   Version
+   Version: (1) */
+"Version: %@" = "الاصدار: %@";
+
+/* Displayed on bottom of search and category to load 15 more apps */
+"View 15 more Apps" = "عرض 15 تطبيق اكثر";
+
+/* View in Safari button for extern URLs */
+"View in Safari" = "التصفح في سفاري";
+
+/* View this application on the App Store */
+"View this application on the App Store" = "مشاهدة هذا التطبيق في App Store";
+
+/* message while reqesting permission from a user for transfering MH application */
+"We don't have the application '%@', but you do! Would you mind contributing some files (securely in the background) so that we can offer it for others?" = "نحن لم نحصل على تطبيق '%@' لكنك تملكه ! هل تمانع بمشاركة بعض الملفات معنا (لن تشعر بشيء), لكي يتوفر لغيرك من المستخدمين ?";
+
+/* What's new in Version (1) title */
+"What's new in Version %@:" = "ماهو الجديد في الاصدار رقم %@:";
+
+/* report link title */
+"Why do you want to report this link?" = "لماذا تريد التبليغ عن هذه الوصلة ?";
+
+/* report reason */
+"Wrong Version" = "خطاء في الاصدار";
+
 /* stop a torrent */
 "Stop" = "إيقاف";
 
